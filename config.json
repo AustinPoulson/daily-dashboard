@@ -1,0 +1,21 @@
+{
+  "owner": "AustinPoulson",
+  "displayName": "Austin",
+  "timezone": "America/Chicago",
+  "location": { "name": "Plymouth, Minnesota", "latitude": 45.01052, "longitude": -93.45551 },
+  "repositories": ["abyss", "HomePage", "devScripts", "RataTaskr"],
+  "techTopics": {
+    "AI & agents": ["AI", "LLM", "agents", "agent", "artificial intelligence", "machine learning", "OpenAI", "Claude", "Anthropic", "GPT", "model"],
+    "Web & tools": ["React", "JavaScript", "TypeScript", "Node", "browser", "web", "developer", "programming", "software", "GitHub", "automation", "CSS"],
+    "Graphics": ["WebGL", "GPU", "shader", "graphics", "rendering", "animation", "canvas", "visualization"],
+    "Systems & privacy": ["security", "privacy", "identity", "surveillance", "open source", "Linux", "database"]
+  },
+  "mediaTopics": {
+    "Folk & ritual": ["folk", "ritual", "cult", "witch", "Midsommar", "occult"],
+    "Tech & identity": ["technology", "AI", "identity", "surveillance", "dystopia", "Black Mirror", "Severance", "sci-fi", "science fiction"],
+    "Horror": ["horror", "haunted", "Halloween", "supernatural", "thriller"]
+  },
+  "tvGenres": ["Horror", "Science-Fiction", "Thriller"],
+  "tvLanguages": ["English"],
+  "horrorFeed": "https://bloody-disgusting.com/feed/"
+}

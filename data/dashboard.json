@@ -1,0 +1,2038 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-06T18:06:42.092Z",
+  "timezone": "America/Chicago",
+  "displayName": "Austin",
+  "owner": "AustinPoulson",
+  "location": "Plymouth, Minnesota",
+  "sources": {
+    "horror": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
+      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
+      "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": "https://bloody-disgusting.com/?p=3970628",
+            "title": "‘Pendulum’ Poster Commands You To “Surrender Completely” To Cult Horror Movie From ‘Black Swan’ Writer [Exclusive]",
+            "url": "https://bloody-disgusting.com/exclusives/3970628/pendulum-poster-commands-you-to-surrender-completely-to-cult-horror-movie-from-black-swan-writer-exclusive/",
+            "publishedAt": "2026-10-06T15:00:08.000Z",
+            "topics": [
+              "Folk & ritual",
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3970692",
+            "title": "‘Crystal Lake’ Showrunner Promises Iconic ‘Friday the 13th’ Mask… But Not the Hockey Mask",
+            "url": "https://bloody-disgusting.com/news/3970692/crystal-lake-friday-the-13th-hockey-mask-jason-voorhees-explained/",
+            "publishedAt": "2026-10-06T17:57:01.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3970689",
+            "title": "‘New Group’ Trailer: Shudder’s Cosmic Horror Twists Conformity Into Body Horror",
+            "url": "https://bloody-disgusting.com/movie/3970689/new-group-trailer-shudders-cosmic-horror-twists-conformity-into-body-horror/",
+            "publishedAt": "2026-10-06T17:34:01.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3970677",
+            "title": "Survival Thriller ‘Fall 2: Deadpoint’ Now Available to Watch at Home",
+            "url": "https://bloody-disgusting.com/movie/3970677/fall-2-deadpoint-home-video-release-details/",
+            "publishedAt": "2026-10-06T16:22:58.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3970638",
+            "title": "‘Creature Of The Pines’ Trailer Teases Found Footage Cryptid Nightmare Deep In The Pine Barrens",
+            "url": "https://bloody-disgusting.com/movie/3970638/creature-of-the-pines-trailer-teases-found-footage-cryptid-nightmare-deep-in-the-pine-barrens/",
+            "publishedAt": "2026-10-06T16:01:02.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3970584",
+            "title": "Watch The First 10 Minutes Of ‘Insidious: Out Of The Further’! [Exclusive]",
+            "url": "https://bloody-disgusting.com/exclusives/3970584/watch-the-first-10-minutes-of-insidious-out-of-the-further-exclusive/",
+            "publishedAt": "2026-10-06T16:00:33.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3970411",
+            "title": "‘Victorian Psycho’ And ‘River’ Lead Packed Telluride Horror Show 2026 Lineup; Bloody Disgusting Joins As Guest Host",
+            "url": "https://bloody-disgusting.com/movie/3970411/victorian-psycho-and-the-cycle-lead-packed-tellride-horror-show-2026-lineup-bloody-disgusting-joins-as-guest-host/",
+            "publishedAt": "2026-10-06T16:00:13.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3970664",
+            "title": "Adam Wingard’s ‘Onslaught’ Is Now Available To Watch At Home",
+            "url": "https://bloody-disgusting.com/home-video/3970664/onslaught-digital-release-watch-at-home/",
+            "publishedAt": "2026-10-06T14:52:33.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3970660",
+            "title": "‘Godzilla Minus Zero’ Gets Epic New IMAX Poster and Three-Days-Early IMAX Release!",
+            "url": "https://bloody-disgusting.com/movie/3970660/godzilla-minus-zero-gets-epic-new-imax-poster-and-three-days-early-imax-release/",
+            "publishedAt": "2026-10-06T14:36:21.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3970649",
+            "title": "‘Scream’ 30th Anniversary 4K Collector’s Set Features a Replica Old School Cordless Phone!",
+            "url": "https://bloody-disgusting.com/home-video/3970649/scream-30th-anniversary-4k-collectors-set-features-a-replica-old-school-cordless-phone/",
+            "publishedAt": "2026-10-06T14:14:54.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          }
+        ],
+        "source": "Bloody Disgusting"
+      }
+    },
+    "weather": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
+      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
+      "error": null,
+      "data": {
+        "location": "Plymouth, Minnesota",
+        "timezone": "America/Chicago",
+        "current": {
+          "time": "2026-10-06T13:00",
+          "interval": 900,
+          "temperature_2m": 72.9,
+          "apparent_temperature": 70,
+          "relative_humidity_2m": 53,
+          "weather_code": 0,
+          "wind_speed_10m": 12.2,
+          "is_day": 1
+        },
+        "units": {
+          "time": "iso8601",
+          "interval": "seconds",
+          "temperature_2m": "°F",
+          "apparent_temperature": "°F",
+          "relative_humidity_2m": "%",
+          "weather_code": "wmo code",
+          "wind_speed_10m": "mp/h",
+          "is_day": ""
+        },
+        "daily": {
+          "time": [
+            "2026-10-06",
+            "2026-10-07",
+            "2026-10-08",
+            "2026-10-09",
+            "2026-10-10",
+            "2026-10-11",
+            "2026-10-12"
+          ],
+          "weather_code": [
+            3,
+            3,
+            3,
+            51,
+            3,
+            51,
+            51
+          ],
+          "temperature_2m_max": [
+            80.8,
+            72.2,
+            65.9,
+            74.3,
+            86.6,
+            75.8,
+            55.4
+          ],
+          "temperature_2m_min": [
+            56.8,
+            51.1,
+            47.8,
+            57.4,
+            69.1,
+            54.4,
+            49
+          ],
+          "precipitation_probability_max": [
+            1,
+            2,
+            0,
+            3,
+            1,
+            7,
+            28
+          ],
+          "sunrise": [
+            "2026-10-06T07:18",
+            "2026-10-07T07:19",
+            "2026-10-08T07:20",
+            "2026-10-09T07:21",
+            "2026-10-10T07:23",
+            "2026-10-11T07:24",
+            "2026-10-12T07:25"
+          ],
+          "sunset": [
+            "2026-10-06T18:44",
+            "2026-10-07T18:42",
+            "2026-10-08T18:41",
+            "2026-10-09T18:39",
+            "2026-10-10T18:37",
+            "2026-10-11T18:35",
+            "2026-10-12T18:34"
+          ]
+        },
+        "hourly": {
+          "time": [
+            "2026-10-06T00:00",
+            "2026-10-06T01:00",
+            "2026-10-06T02:00",
+            "2026-10-06T03:00",
+            "2026-10-06T04:00",
+            "2026-10-06T05:00",
+            "2026-10-06T06:00",
+            "2026-10-06T07:00",
+            "2026-10-06T08:00",
+            "2026-10-06T09:00",
+            "2026-10-06T10:00",
+            "2026-10-06T11:00",
+            "2026-10-06T12:00",
+            "2026-10-06T13:00",
+            "2026-10-06T14:00",
+            "2026-10-06T15:00",
+            "2026-10-06T16:00",
+            "2026-10-06T17:00",
+            "2026-10-06T18:00",
+            "2026-10-06T19:00",
+            "2026-10-06T20:00",
+            "2026-10-06T21:00",
+            "2026-10-06T22:00",
+            "2026-10-06T23:00",
+            "2026-10-07T00:00",
+            "2026-10-07T01:00",
+            "2026-10-07T02:00",
+            "2026-10-07T03:00",
+            "2026-10-07T04:00",
+            "2026-10-07T05:00",
+            "2026-10-07T06:00",
+            "2026-10-07T07:00",
+            "2026-10-07T08:00",
+            "2026-10-07T09:00",
+            "2026-10-07T10:00",
+            "2026-10-07T11:00",
+            "2026-10-07T12:00",
+            "2026-10-07T13:00",
+            "2026-10-07T14:00",
+            "2026-10-07T15:00",
+            "2026-10-07T16:00",
+            "2026-10-07T17:00",
+            "2026-10-07T18:00",
+            "2026-10-07T19:00",
+            "2026-10-07T20:00",
+            "2026-10-07T21:00",
+            "2026-10-07T22:00",
+            "2026-10-07T23:00",
+            "2026-10-08T00:00",
+            "2026-10-08T01:00",
+            "2026-10-08T02:00",
+            "2026-10-08T03:00",
+            "2026-10-08T04:00",
+            "2026-10-08T05:00",
+            "2026-10-08T06:00",
+            "2026-10-08T07:00",
+            "2026-10-08T08:00",
+            "2026-10-08T09:00",
+            "2026-10-08T10:00",
+            "2026-10-08T11:00",
+            "2026-10-08T12:00",
+            "2026-10-08T13:00",
+            "2026-10-08T14:00",
+            "2026-10-08T15:00",
+            "2026-10-08T16:00",
+            "2026-10-08T17:00",
+            "2026-10-08T18:00",
+            "2026-10-08T19:00",
+            "2026-10-08T20:00",
+            "2026-10-08T21:00",
+            "2026-10-08T22:00",
+            "2026-10-08T23:00",
+            "2026-10-09T00:00",
+            "2026-10-09T01:00",
+            "2026-10-09T02:00",
+            "2026-10-09T03:00",
+            "2026-10-09T04:00",
+            "2026-10-09T05:00",
+            "2026-10-09T06:00",
+            "2026-10-09T07:00",
+            "2026-10-09T08:00",
+            "2026-10-09T09:00",
+            "2026-10-09T10:00",
+            "2026-10-09T11:00",
+            "2026-10-09T12:00",
+            "2026-10-09T13:00",
+            "2026-10-09T14:00",
+            "2026-10-09T15:00",
+            "2026-10-09T16:00",
+            "2026-10-09T17:00",
+            "2026-10-09T18:00",
+            "2026-10-09T19:00",
+            "2026-10-09T20:00",
+            "2026-10-09T21:00",
+            "2026-10-09T22:00",
+            "2026-10-09T23:00",
+            "2026-10-10T00:00",
+            "2026-10-10T01:00",
+            "2026-10-10T02:00",
+            "2026-10-10T03:00",
+            "2026-10-10T04:00",
+            "2026-10-10T05:00",
+            "2026-10-10T06:00",
+            "2026-10-10T07:00",
+            "2026-10-10T08:00",
+            "2026-10-10T09:00",
+            "2026-10-10T10:00",
+            "2026-10-10T11:00",
+            "2026-10-10T12:00",
+            "2026-10-10T13:00",
+            "2026-10-10T14:00",
+            "2026-10-10T15:00",
+            "2026-10-10T16:00",
+            "2026-10-10T17:00",
+            "2026-10-10T18:00",
+            "2026-10-10T19:00",
+            "2026-10-10T20:00",
+            "2026-10-10T21:00",
+            "2026-10-10T22:00",
+            "2026-10-10T23:00",
+            "2026-10-11T00:00",
+            "2026-10-11T01:00",
+            "2026-10-11T02:00",
+            "2026-10-11T03:00",
+            "2026-10-11T04:00",
+            "2026-10-11T05:00",
+            "2026-10-11T06:00",
+            "2026-10-11T07:00",
+            "2026-10-11T08:00",
+            "2026-10-11T09:00",
+            "2026-10-11T10:00",
+            "2026-10-11T11:00",
+            "2026-10-11T12:00",
+            "2026-10-11T13:00",
+            "2026-10-11T14:00",
+            "2026-10-11T15:00",
+            "2026-10-11T16:00",
+            "2026-10-11T17:00",
+            "2026-10-11T18:00",
+            "2026-10-11T19:00",
+            "2026-10-11T20:00",
+            "2026-10-11T21:00",
+            "2026-10-11T22:00",
+            "2026-10-11T23:00",
+            "2026-10-12T00:00",
+            "2026-10-12T01:00",
+            "2026-10-12T02:00",
+            "2026-10-12T03:00",
+            "2026-10-12T04:00",
+            "2026-10-12T05:00",
+            "2026-10-12T06:00",
+            "2026-10-12T07:00",
+            "2026-10-12T08:00",
+            "2026-10-12T09:00",
+            "2026-10-12T10:00",
+            "2026-10-12T11:00",
+            "2026-10-12T12:00",
+            "2026-10-12T13:00",
+            "2026-10-12T14:00",
+            "2026-10-12T15:00",
+            "2026-10-12T16:00",
+            "2026-10-12T17:00",
+            "2026-10-12T18:00",
+            "2026-10-12T19:00",
+            "2026-10-12T20:00",
+            "2026-10-12T21:00",
+            "2026-10-12T22:00",
+            "2026-10-12T23:00"
+          ],
+          "temperature_2m": [
+            57.7,
+            56.9,
+            56.8,
+            56.9,
+            59,
+            60.5,
+            60,
+            61,
+            60.2,
+            63,
+            65,
+            68,
+            70.3,
+            72.9,
+            75.8,
+            78.5,
+            80.8,
+            79.9,
+            75.8,
+            70.3,
+            67,
+            64.6,
+            63.7,
+            62.5,
+            60.7,
+            58.6,
+            57.1,
+            56,
+            54.7,
+            53.8,
+            51.5,
+            51.3,
+            51.1,
+            56.3,
+            61.1,
+            65.8,
+            68.2,
+            70.3,
+            71.4,
+            72.2,
+            71.6,
+            70.2,
+            66.3,
+            62.3,
+            60.5,
+            58.2,
+            56.5,
+            54.9,
+            53.2,
+            51.3,
+            50.3,
+            49.1,
+            47.8,
+            48.1,
+            48.8,
+            49.7,
+            51.3,
+            53.8,
+            56.7,
+            60.3,
+            63,
+            64.8,
+            65.9,
+            65.9,
+            65.7,
+            65.3,
+            64.4,
+            62.1,
+            61,
+            61,
+            61.6,
+            61.6,
+            61.2,
+            59.6,
+            59.9,
+            59.8,
+            58.5,
+            59.6,
+            58.5,
+            58,
+            57.4,
+            58.7,
+            61.4,
+            62.8,
+            67.1,
+            70.2,
+            72.2,
+            73.4,
+            74.3,
+            74,
+            72.2,
+            69.5,
+            68.4,
+            68.4,
+            68.4,
+            69.7,
+            69.1,
+            69.3,
+            69.5,
+            69.6,
+            69.5,
+            69.3,
+            69.3,
+            69.5,
+            69.8,
+            71.8,
+            74.9,
+            78.1,
+            81.4,
+            84.1,
+            85.7,
+            86.6,
+            86.2,
+            84.6,
+            82.3,
+            80.5,
+            79.4,
+            77.9,
+            76,
+            74.9,
+            74.3,
+            74,
+            73.4,
+            72.9,
+            71.8,
+            70.7,
+            70.9,
+            70.2,
+            70.7,
+            71.6,
+            72.5,
+            73.7,
+            74.9,
+            75.6,
+            75.8,
+            75.5,
+            74.2,
+            71.3,
+            67.3,
+            63.7,
+            60.8,
+            58.1,
+            56,
+            54.4,
+            53.1,
+            52.1,
+            51.2,
+            50.5,
+            50,
+            49.4,
+            49.1,
+            49,
+            49.3,
+            50,
+            50.8,
+            51.8,
+            52.9,
+            53.8,
+            54.5,
+            54.8,
+            55.1,
+            55.4,
+            55.4,
+            55.3,
+            54.8,
+            54,
+            53,
+            51.5
+          ],
+          "precipitation_probability": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            12,
+            12,
+            12,
+            12,
+            12,
+            12,
+            24,
+            24,
+            24,
+            24,
+            24,
+            24,
+            22,
+            22,
+            22,
+            22,
+            22,
+            22,
+            28,
+            28,
+            28,
+            28
+          ],
+          "weather_code": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3,
+            3,
+            3,
+            3,
+            3,
+            2,
+            1,
+            2,
+            3,
+            3,
+            3,
+            2,
+            3,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            51,
+            3,
+            2,
+            2,
+            3,
+            3,
+            3,
+            3,
+            2,
+            0,
+            3,
+            3,
+            2,
+            0,
+            3,
+            2,
+            3,
+            3,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            51,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            2,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            51
+          ]
+        }
+      }
+    },
+    "github": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
+      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
+      "error": null,
+      "data": {
+        "owner": "AustinPoulson",
+        "repositories": [
+          {
+            "name": "abyss",
+            "url": "https://github.com/AustinPoulson/abyss",
+            "description": "",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2026-09-16T16:13:04Z",
+            "commits": 2,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "HomePage",
+            "url": "https://github.com/AustinPoulson/HomePage",
+            "description": "Custom home page for my browser",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2025-08-04T22:02:04Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "devScripts",
+            "url": "https://github.com/AustinPoulson/devScripts",
+            "description": "Some scripts to make dev work easier",
+            "language": "Batchfile",
+            "stars": 0,
+            "pushedAt": "2024-03-24T02:41:31Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "RataTaskr",
+            "url": "https://github.com/AustinPoulson/RataTaskr",
+            "description": "Library of tools to aggregate data",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2024-12-03T23:30:50Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          }
+        ],
+        "activity": [
+          {
+            "date": "2026-09-09",
+            "count": 0
+          },
+          {
+            "date": "2026-09-10",
+            "count": 0
+          },
+          {
+            "date": "2026-09-11",
+            "count": 0
+          },
+          {
+            "date": "2026-09-12",
+            "count": 0
+          },
+          {
+            "date": "2026-09-13",
+            "count": 0
+          },
+          {
+            "date": "2026-09-14",
+            "count": 0
+          },
+          {
+            "date": "2026-09-15",
+            "count": 1
+          },
+          {
+            "date": "2026-09-16",
+            "count": 1
+          },
+          {
+            "date": "2026-09-17",
+            "count": 0
+          },
+          {
+            "date": "2026-09-18",
+            "count": 0
+          },
+          {
+            "date": "2026-09-19",
+            "count": 0
+          },
+          {
+            "date": "2026-09-20",
+            "count": 0
+          },
+          {
+            "date": "2026-09-21",
+            "count": 0
+          },
+          {
+            "date": "2026-09-22",
+            "count": 0
+          },
+          {
+            "date": "2026-09-23",
+            "count": 0
+          },
+          {
+            "date": "2026-09-24",
+            "count": 0
+          },
+          {
+            "date": "2026-09-25",
+            "count": 0
+          },
+          {
+            "date": "2026-09-26",
+            "count": 0
+          },
+          {
+            "date": "2026-09-27",
+            "count": 0
+          },
+          {
+            "date": "2026-09-28",
+            "count": 0
+          },
+          {
+            "date": "2026-09-29",
+            "count": 0
+          },
+          {
+            "date": "2026-09-30",
+            "count": 0
+          },
+          {
+            "date": "2026-10-01",
+            "count": 0
+          },
+          {
+            "date": "2026-10-02",
+            "count": 0
+          },
+          {
+            "date": "2026-10-03",
+            "count": 0
+          },
+          {
+            "date": "2026-10-04",
+            "count": 0
+          },
+          {
+            "date": "2026-10-05",
+            "count": 0
+          },
+          {
+            "date": "2026-10-06",
+            "count": 0
+          }
+        ],
+        "totalCommits": 2,
+        "scope": "Commits on default branches of tracked public repositories; all contributors."
+      }
+    },
+    "news": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
+      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
+      "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": 49961057,
+            "title": "Anthropic reported diary entry to police, woman faces felony charge",
+            "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49961057",
+            "publishedAt": "2026-10-05T05:37:40.000Z",
+            "score": 782,
+            "comments": 618,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49963171,
+            "title": "Web Search API",
+            "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49963171",
+            "publishedAt": "2026-10-05T10:47:06.000Z",
+            "score": 577,
+            "comments": 276,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 49969183,
+            "title": "Beam: Reflection's 501B open-weight model",
+            "url": "https://reflection.ai/blog/introducing-beam",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49969183",
+            "publishedAt": "2026-10-05T19:16:35.000Z",
+            "score": 515,
+            "comments": 164,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49970667,
+            "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+            "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49970667",
+            "publishedAt": "2026-10-05T21:00:21.000Z",
+            "score": 449,
+            "comments": 304,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49977588,
+            "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+            "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49977588",
+            "publishedAt": "2026-10-06T12:45:49.000Z",
+            "score": 290,
+            "comments": 188,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 49971719,
+            "title": "Friendship ended with Deno, now Node is my best friend",
+            "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49971719",
+            "publishedAt": "2026-10-05T22:30:02.000Z",
+            "score": 277,
+            "comments": 190,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 49973598,
+            "title": "Why Common Lisp is now the best programming language",
+            "url": "https://www.vivienhenz.com/common-lisp",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49973598",
+            "publishedAt": "2026-10-06T02:51:51.000Z",
+            "score": 260,
+            "comments": 339,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 49965118,
+            "title": "Linux containers in 500 lines of code (2016)",
+            "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49965118",
+            "publishedAt": "2026-10-05T14:09:15.000Z",
+            "score": 136,
+            "comments": 37,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 49980715,
+            "title": "AI is now capable of developing its own inference hardware",
+            "url": "https://github.com/FeSens/openTPU",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49980715",
+            "publishedAt": "2026-10-06T16:23:25.000Z",
+            "score": 114,
+            "comments": 80,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49944392,
+            "title": "The era of software quality, or the era of ostriches?",
+            "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49944392",
+            "publishedAt": "2026-10-03T14:07:29.000Z",
+            "score": 56,
+            "comments": 89,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 49981197,
+            "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+            "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49981197",
+            "publishedAt": "2026-10-06T17:01:52.000Z",
+            "score": 35,
+            "comments": 52,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49977689,
+            "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+            "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49977689",
+            "publishedAt": "2026-10-06T12:53:58.000Z",
+            "score": 4,
+            "comments": 1,
+            "topics": [
+              "AI & agents"
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "name": "AI & agents",
+            "count": 6
+          },
+          {
+            "name": "Web & tools",
+            "count": 4
+          },
+          {
+            "name": "Graphics",
+            "count": 0
+          },
+          {
+            "name": "Systems & privacy",
+            "count": 2
+          }
+        ],
+        "sampledCount": 60,
+        "matchedCount": 12,
+        "source": "Hacker News"
+      }
+    },
+    "television": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
+      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
+      "error": null,
+      "data": {
+        "episodes": [
+          {
+            "id": 3757259,
+            "title": "Star Trek: Scouts",
+            "episode": "Episode 4",
+            "season": 2,
+            "number": 4,
+            "date": "2026-10-06",
+            "airstamp": "2026-10-06T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3757259/star-trek-scouts-2x04-episode-4",
+            "showUrl": "https://www.tvmaze.com/shows/87107/star-trek-scouts",
+            "genres": [
+              "Adventure",
+              "Children",
+              "Science-Fiction"
+            ],
+            "channel": "YouTube",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3684103,
+            "title": "Carrie",
+            "episode": "First Period",
+            "season": 1,
+            "number": 1,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3684103/carrie-1x01-first-period",
+            "showUrl": "https://www.tvmaze.com/shows/45562/carrie",
+            "genres": [
+              "Horror"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3684104,
+            "title": "Carrie",
+            "episode": "Foreign Language",
+            "season": 1,
+            "number": 2,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3684104/carrie-1x02-foreign-language",
+            "showUrl": "https://www.tvmaze.com/shows/45562/carrie",
+            "genres": [
+              "Horror"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3684105,
+            "title": "Carrie",
+            "episode": "Social Studies",
+            "season": 1,
+            "number": 3,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3684105/carrie-1x03-social-studies",
+            "showUrl": "https://www.tvmaze.com/shows/45562/carrie",
+            "genres": [
+              "Horror"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3684106,
+            "title": "Carrie",
+            "episode": "Dramatic Arts",
+            "season": 1,
+            "number": 4,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3684106/carrie-1x04-dramatic-arts",
+            "showUrl": "https://www.tvmaze.com/shows/45562/carrie",
+            "genres": [
+              "Horror"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3684107,
+            "title": "Carrie",
+            "episode": "Physical Education",
+            "season": 1,
+            "number": 5,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3684107/carrie-1x05-physical-education",
+            "showUrl": "https://www.tvmaze.com/shows/45562/carrie",
+            "genres": [
+              "Horror"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3684108,
+            "title": "Carrie",
+            "episode": "Home Economics",
+            "season": 1,
+            "number": 6,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3684108/carrie-1x06-home-economics",
+            "showUrl": "https://www.tvmaze.com/shows/45562/carrie",
+            "genres": [
+              "Horror"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3684109,
+            "title": "Carrie",
+            "episode": "Romantic Literature",
+            "season": 1,
+            "number": 7,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3684109/carrie-1x07-romantic-literature",
+            "showUrl": "https://www.tvmaze.com/shows/45562/carrie",
+            "genres": [
+              "Horror"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3684110,
+            "title": "Carrie",
+            "episode": "AP Physics",
+            "season": 1,
+            "number": 8,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3684110/carrie-1x08-ap-physics",
+            "showUrl": "https://www.tvmaze.com/shows/45562/carrie",
+            "genres": [
+              "Horror"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3770658,
+            "title": "Ghost Adventures",
+            "episode": "Possession in Pilot Rock",
+            "season": 31,
+            "number": 2,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-08T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3770658/ghost-adventures-31x02-possession-in-pilot-rock",
+            "showUrl": "https://www.tvmaze.com/shows/926/ghost-adventures",
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Discovery",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3770321,
+            "title": "Her Baby",
+            "episode": "TBA",
+            "season": 1,
+            "number": 1,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-08T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3770321/her-baby-1x01-tba",
+            "showUrl": "https://www.tvmaze.com/shows/94651/her-baby",
+            "genres": [
+              "Thriller"
+            ],
+            "channel": "BET",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3627009,
+            "title": "Last Seen",
+            "episode": "The Choice",
+            "season": 1,
+            "number": 6,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3627009/last-seen-1x06-the-choice",
+            "showUrl": "https://www.tvmaze.com/shows/78183/last-seen",
+            "genres": [
+              "Crime",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Apple TV",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3765682,
+            "title": "Sacrifice",
+            "episode": "Episode 3",
+            "season": 2,
+            "number": 3,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3765682/sacrifice-2x03-episode-3",
+            "showUrl": "https://www.tvmaze.com/shows/50786/sacrifice",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Legal"
+            ],
+            "channel": "Paramount+",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3643508,
+            "title": "Slow Horses",
+            "episode": "Lost and Found",
+            "season": 6,
+            "number": 4,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-07T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3643508/slow-horses-6x04-lost-and-found",
+            "showUrl": "https://www.tvmaze.com/shows/45039/slow-horses",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Espionage"
+            ],
+            "channel": "Apple TV",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3620301,
+            "title": "The Ark",
+            "episode": "A Pretty Nasty One",
+            "season": 3,
+            "number": 11,
+            "date": "2026-10-07",
+            "airstamp": "2026-10-08T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3620301/the-ark-3x11-a-pretty-nasty-one",
+            "showUrl": "https://www.tvmaze.com/shows/60153/the-ark",
+            "genres": [
+              "Drama",
+              "Action",
+              "Science-Fiction"
+            ],
+            "channel": "Syfy",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3667323,
+            "title": "American Horror Story",
+            "episode": "The Baddest Witch of Them All",
+            "season": 13,
+            "number": 7,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-09T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3667323/american-horror-story-13x07-the-baddest-witch-of-them-all",
+            "showUrl": "https://www.tvmaze.com/shows/30/american-horror-story",
+            "genres": [
+              "Drama",
+              "Horror",
+              "Thriller"
+            ],
+            "channel": "FX",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3667324,
+            "title": "American Horror Story",
+            "episode": "Hell No",
+            "season": 13,
+            "number": 8,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-09T01:33:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3667324/american-horror-story-13x08-hell-no",
+            "showUrl": "https://www.tvmaze.com/shows/30/american-horror-story",
+            "genres": [
+              "Drama",
+              "Horror",
+              "Thriller"
+            ],
+            "channel": "FX",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3673506,
+            "title": "Below",
+            "episode": "TBA",
+            "season": 1,
+            "number": 1,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3673506/below-1x01-tba",
+            "showUrl": "https://www.tvmaze.com/shows/93115/below",
+            "genres": [
+              "Thriller",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3673508,
+            "title": "Below",
+            "episode": "TBA",
+            "season": 1,
+            "number": 2,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3673508/below-1x02-tba",
+            "showUrl": "https://www.tvmaze.com/shows/93115/below",
+            "genres": [
+              "Thriller",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3673509,
+            "title": "Below",
+            "episode": "TBA",
+            "season": 1,
+            "number": 3,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3673509/below-1x03-tba",
+            "showUrl": "https://www.tvmaze.com/shows/93115/below",
+            "genres": [
+              "Thriller",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3673510,
+            "title": "Below",
+            "episode": "TBA",
+            "season": 1,
+            "number": 4,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3673510/below-1x04-tba",
+            "showUrl": "https://www.tvmaze.com/shows/93115/below",
+            "genres": [
+              "Thriller",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3673511,
+            "title": "Below",
+            "episode": "TBA",
+            "season": 1,
+            "number": 5,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3673511/below-1x05-tba",
+            "showUrl": "https://www.tvmaze.com/shows/93115/below",
+            "genres": [
+              "Thriller",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3673512,
+            "title": "Below",
+            "episode": "TBA",
+            "season": 1,
+            "number": 6,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3673512/below-1x06-tba",
+            "showUrl": "https://www.tvmaze.com/shows/93115/below",
+            "genres": [
+              "Thriller",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3771173,
+            "title": "Gnomes",
+            "episode": "TBA",
+            "season": 1,
+            "number": 1,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3771173/gnomes-1x01-tba",
+            "showUrl": "https://www.tvmaze.com/shows/82695/gnomes",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Horror"
+            ],
+            "channel": "Stan",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3780837,
+            "title": "Gnomes",
+            "episode": "TBA",
+            "season": 1,
+            "number": 2,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3780837/gnomes-1x02-tba",
+            "showUrl": "https://www.tvmaze.com/shows/82695/gnomes",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Horror"
+            ],
+            "channel": "Stan",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3780838,
+            "title": "Gnomes",
+            "episode": "TBA",
+            "season": 1,
+            "number": 3,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3780838/gnomes-1x03-tba",
+            "showUrl": "https://www.tvmaze.com/shows/82695/gnomes",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Horror"
+            ],
+            "channel": "Stan",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3780839,
+            "title": "Gnomes",
+            "episode": "TBA",
+            "season": 1,
+            "number": 4,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3780839/gnomes-1x04-tba",
+            "showUrl": "https://www.tvmaze.com/shows/82695/gnomes",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Horror"
+            ],
+            "channel": "Stan",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3780840,
+            "title": "Gnomes",
+            "episode": "TBA",
+            "season": 1,
+            "number": 5,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3780840/gnomes-1x05-tba",
+            "showUrl": "https://www.tvmaze.com/shows/82695/gnomes",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Horror"
+            ],
+            "channel": "Stan",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3780841,
+            "title": "Gnomes",
+            "episode": "TBA",
+            "season": 1,
+            "number": 6,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-08T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3780841/gnomes-1x06-tba",
+            "showUrl": "https://www.tvmaze.com/shows/82695/gnomes",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Horror"
+            ],
+            "channel": "Stan",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3772240,
+            "title": "The Traitors",
+            "episode": "Wake of the Living Dead",
+            "season": 5,
+            "number": 5,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-09T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3772240/the-traitors-5x05-wake-of-the-living-dead",
+            "showUrl": "https://www.tvmaze.com/shows/58177/the-traitors",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Thriller"
+            ],
+            "channel": "NBC",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3768082,
+            "title": "War",
+            "episode": "No More Nasty Surprises",
+            "season": 1,
+            "number": 2,
+            "date": "2026-10-08",
+            "airstamp": "2026-10-09T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3768082/war-1x02-no-more-nasty-surprises",
+            "showUrl": "https://www.tvmaze.com/shows/86587/war",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Legal"
+            ],
+            "channel": "HBO",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3591070,
+            "title": "Dark Matter",
+            "episode": "The Pyramid",
+            "season": 2,
+            "number": 7,
+            "date": "2026-10-09",
+            "airstamp": "2026-10-09T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3591070/dark-matter-2x07-the-pyramid",
+            "showUrl": "https://www.tvmaze.com/shows/61315/dark-matter",
+            "genres": [
+              "Science-Fiction",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Apple TV",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3751467,
+            "title": "Haunted Hotel",
+            "episode": "Episode 1",
+            "season": 2,
+            "number": 1,
+            "date": "2026-10-09",
+            "airstamp": "2026-10-09T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3751467/haunted-hotel-2x01-episode-1",
+            "showUrl": "https://www.tvmaze.com/shows/85255/haunted-hotel",
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3775935,
+            "title": "Svengoolie",
+            "episode": "Munster Go Home",
+            "season": 32,
+            "number": 43,
+            "date": "2026-10-10",
+            "airstamp": "2026-10-11T00:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3775935/svengoolie-32x43-munster-go-home",
+            "showUrl": "https://www.tvmaze.com/shows/22734/svengoolie",
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "channel": "Me-TV",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3775936,
+            "title": "Svengoolie",
+            "episode": "Berserk",
+            "season": 32,
+            "number": 44,
+            "date": "2026-10-10",
+            "airstamp": "2026-10-11T02:30:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3775936/svengoolie-32x44-berserk",
+            "showUrl": "https://www.tvmaze.com/shows/22734/svengoolie",
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "channel": "Me-TV",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3695794,
+            "title": "American Hostage",
+            "episode": "WIBC Mystery Science Theater",
+            "season": 1,
+            "number": 5,
+            "date": "2026-10-11",
+            "airstamp": "2026-10-11T16:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3695794/american-hostage-1x05-wibc-mystery-science-theater",
+            "showUrl": "https://www.tvmaze.com/shows/84262/american-hostage",
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "channel": "MGM+",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3777479,
+            "title": "Paranormal Caught on Camera",
+            "episode": "Abandoned Mansion Apparition and More",
+            "season": 12,
+            "number": 5,
+            "date": "2026-10-11",
+            "airstamp": "2026-10-12T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3777479/paranormal-caught-on-camera-12x05-abandoned-mansion-apparition-and-more",
+            "showUrl": "https://www.tvmaze.com/shows/40990/paranormal-caught-on-camera",
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Travel Channel",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3776044,
+            "title": "Time",
+            "episode": "Episode 1",
+            "season": 3,
+            "number": 1,
+            "date": "2026-10-11",
+            "airstamp": "2026-10-11T05:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3776044/time-3x01-episode-1",
+            "showUrl": "https://www.tvmaze.com/shows/50374/time",
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "channel": "BBC iPlayer",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3776045,
+            "title": "Time",
+            "episode": "Episode 2",
+            "season": 3,
+            "number": 2,
+            "date": "2026-10-11",
+            "airstamp": "2026-10-11T05:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3776045/time-3x02-episode-2",
+            "showUrl": "https://www.tvmaze.com/shows/50374/time",
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "channel": "BBC iPlayer",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3776046,
+            "title": "Time",
+            "episode": "Episode 3",
+            "season": 3,
+            "number": 3,
+            "date": "2026-10-11",
+            "airstamp": "2026-10-11T05:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3776046/time-3x03-episode-3",
+            "showUrl": "https://www.tvmaze.com/shows/50374/time",
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "channel": "BBC iPlayer",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3696079,
+            "title": "Fatal Attraction",
+            "episode": "Sudden Silence",
+            "season": 17,
+            "number": 10,
+            "date": "2026-10-12",
+            "airstamp": "2026-10-13T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3696079/fatal-attraction-17x10-sudden-silence",
+            "showUrl": "https://www.tvmaze.com/shows/4887/fatal-attraction",
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "channel": "TV One",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3763740,
+            "title": "Has Fallen",
+            "episode": "Episode 6",
+            "season": 2,
+            "number": 6,
+            "date": "2026-10-12",
+            "airstamp": "2026-10-12T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3763740/has-fallen-2x06-episode-6",
+            "showUrl": "https://www.tvmaze.com/shows/79446/has-fallen",
+            "genres": [
+              "Action",
+              "Thriller",
+              "Espionage"
+            ],
+            "channel": "Canal+",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3762809,
+            "title": "High Country",
+            "episode": "Episode 5",
+            "season": 2,
+            "number": 5,
+            "date": "2026-10-12",
+            "airstamp": "2026-10-12T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3762809/high-country-2x05-episode-5",
+            "showUrl": "https://www.tvmaze.com/shows/72241/high-country",
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Binge",
+            "scope": "Global streaming schedule"
+          }
+        ],
+        "days": [
+          {
+            "date": "2026-10-06",
+            "count": 1
+          },
+          {
+            "date": "2026-10-07",
+            "count": 14
+          },
+          {
+            "date": "2026-10-08",
+            "count": 16
+          },
+          {
+            "date": "2026-10-09",
+            "count": 2
+          },
+          {
+            "date": "2026-10-10",
+            "count": 2
+          },
+          {
+            "date": "2026-10-11",
+            "count": 5
+          },
+          {
+            "date": "2026-10-12",
+            "count": 3
+          }
+        ],
+        "genres": [
+          "Horror",
+          "Science-Fiction",
+          "Thriller"
+        ],
+        "languages": [
+          "English"
+        ],
+        "source": "TVmaze"
+      }
+    }
+  }
+}

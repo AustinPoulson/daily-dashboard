@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b111d">
+  <meta name="description" content="Austin's daily brief: Plymouth weather, public project activity, developer news, and horror / sci-fi discovery.">
+  <title>Daily Brief · Austin</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230b111d'/%3E%3Cpath d='M8 22V16M16 22V8M24 22V12' stroke='%236ee7b7' stroke-width='4'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to daily brief</a>
+  <aside class="sidebar" aria-label="Dashboard navigation">
+    <a class="brand" href="#main" aria-label="Daily Brief"><span class="brand-mark">d<span>b</span></span><span>DAILY<br>BRIEF</span></a>
+    <nav>
+      <a class="nav-link active" href="#main"><span aria-hidden="true">◫</span> Overview</a>
+      <a class="nav-link" href="#weather"><span aria-hidden="true">☀</span> Weather</a>
+      <a class="nav-link" href="#projects"><span aria-hidden="true">⌘</span> Projects</a>
+      <a class="nav-link" href="#radar"><span aria-hidden="true">◎</span> Tech radar</a>
+      <a class="nav-link" href="#screen"><span aria-hidden="true">▤</span> On screen</a>
+    </nav>
+    <div class="sidebar-bottom"><span class="avatar">AP</span><div><strong>Austin</strong><span>America / Chicago</span></div></div>
+  </aside>
+  <main id="main">
+    <header class="page-header">
+      <div><p class="eyebrow" id="date-label">YOUR DAILY BRIEF</p><h1>Your daily brief.</h1><p class="location-line">Plymouth, Minnesota <span>·</span> <span id="header-date">Daily overview</span></p></div>
+      <div class="refresh-block"><span class="refresh-caption" id="refresh-label">Loading the latest brief</span><button id="reload" type="button"><span aria-hidden="true">↻</span> Refresh view</button><span class="refresh-note">Data updates every 6 hours</span></div>
+    </header>
+    <div id="notice" class="notice" role="status" hidden></div>
+    <div class="dashboard-grid">
+      <section id="weather" class="panel weather-panel" aria-labelledby="weather-title">
+        <div class="panel-heading"><div><p class="eyebrow">OUTSIDE</p><h2 id="weather-title">Plymouth weather</h2></div><span class="source-status" data-source="weather">Loading</span></div>
+        <div id="weather-content" class="loading">Fetching your forecast…</div>
+      </section>
+      <section id="projects" class="panel" aria-labelledby="projects-title">
+        <div class="panel-heading"><div><p class="eyebrow">BUILDING</p><h2 id="projects-title">Your public projects</h2></div><span class="source-status" data-source="github">Loading</span></div>
+        <div id="github-content" class="loading">Fetching public project activity…</div>
+      </section>
+      <section id="radar" class="panel news-panel" aria-labelledby="radar-title">
+        <div class="panel-heading"><div><p class="eyebrow">THE SIGNAL</p><h2 id="radar-title">Developer & AI radar</h2></div><span class="source-status" data-source="news">Loading</span></div>
+        <div id="news-content" class="loading">Finding relevant stories…</div>
+      </section>
+      <section id="screen" class="panel media-panel" aria-labelledby="screen-title">
+        <div class="panel-heading"><div><p class="eyebrow">AFTER HOURS</p><h2 id="screen-title">Horror, sci-fi & the strange</h2></div><span class="source-status" data-source="horror">Loading</span></div>
+        <div class="segmented media-switch" role="group" aria-label="Media view"><button type="button" data-media="horror" aria-pressed="true">Horror news</button><button type="button" data-media="television" aria-pressed="false">Upcoming TV</button></div>
+        <div id="media-content" class="loading">Checking what's on the horizon…</div>
+      </section>
+    </div>
+    <footer>
+      <details id="sources"><summary>Sources & freshness <span id="source-summary"></span></summary><div id="source-details"></div><p class="small">Weather: <a href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer">Open-Meteo</a> · Projects: <a href="https://docs.github.com/en/rest" target="_blank" rel="noopener noreferrer">GitHub</a> · Tech: <a href="https://news.ycombinator.com/" target="_blank" rel="noopener noreferrer">Hacker News</a> · Horror: <a href="https://bloody-disgusting.com/" target="_blank" rel="noopener noreferrer">Bloody Disgusting</a> · TV: <a href="https://www.tvmaze.com/" target="_blank" rel="noopener noreferrer">TVmaze</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>; normalized schedule data shared under the same license).</p></details>
+      <div class="footer-meta"><span>Made for Austin · Public data only</span><a href="https://github.com/AustinPoulson/daily-dashboard" target="_blank" rel="noopener noreferrer">Source & configuration</a></div>
+    </footer>
+  </main>
+</body>
+</html>

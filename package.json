@@ -1,0 +1,17 @@
+{
+  "name": "austin-daily-dashboard",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test",
+    "serve": "node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "5.11.2"
+  }
+}
