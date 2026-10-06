@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T18:06:42.092Z",
+  "generatedAt": "2026-10-06T18:07:08.117Z",
   "timezone": "America/Chicago",
   "displayName": "Austin",
   "owner": "AustinPoulson",
@@ -8,8 +8,8 @@
   "sources": {
     "horror": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
-      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
+      "lastAttemptAt": "2026-10-06T18:07:08.117Z",
+      "lastSuccessAt": "2026-10-06T18:07:08.117Z",
       "error": null,
       "data": {
         "stories": [
@@ -106,10 +106,185 @@
         "source": "Bloody Disgusting"
       }
     },
+    "news": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-10-06T18:07:08.117Z",
+      "lastSuccessAt": "2026-10-06T18:07:08.117Z",
+      "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": 49961057,
+            "title": "Anthropic reported diary entry to police, woman faces felony charge",
+            "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49961057",
+            "publishedAt": "2026-10-05T05:37:40.000Z",
+            "score": 782,
+            "comments": 618,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49963171,
+            "title": "Web Search API",
+            "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49963171",
+            "publishedAt": "2026-10-05T10:47:06.000Z",
+            "score": 578,
+            "comments": 276,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 49969183,
+            "title": "Beam: Reflection's 501B open-weight model",
+            "url": "https://reflection.ai/blog/introducing-beam",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49969183",
+            "publishedAt": "2026-10-05T19:16:35.000Z",
+            "score": 515,
+            "comments": 164,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49970667,
+            "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+            "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49970667",
+            "publishedAt": "2026-10-05T21:00:21.000Z",
+            "score": 449,
+            "comments": 304,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49977588,
+            "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+            "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49977588",
+            "publishedAt": "2026-10-06T12:45:49.000Z",
+            "score": 290,
+            "comments": 189,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 49971719,
+            "title": "Friendship ended with Deno, now Node is my best friend",
+            "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49971719",
+            "publishedAt": "2026-10-05T22:30:02.000Z",
+            "score": 277,
+            "comments": 190,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 49973598,
+            "title": "Why Common Lisp is now the best programming language",
+            "url": "https://www.vivienhenz.com/common-lisp",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49973598",
+            "publishedAt": "2026-10-06T02:51:51.000Z",
+            "score": 260,
+            "comments": 339,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 49965118,
+            "title": "Linux containers in 500 lines of code (2016)",
+            "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49965118",
+            "publishedAt": "2026-10-05T14:09:15.000Z",
+            "score": 137,
+            "comments": 37,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 49980715,
+            "title": "AI is now capable of developing its own inference hardware",
+            "url": "https://github.com/FeSens/openTPU",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49980715",
+            "publishedAt": "2026-10-06T16:23:25.000Z",
+            "score": 115,
+            "comments": 82,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49944392,
+            "title": "The era of software quality, or the era of ostriches?",
+            "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49944392",
+            "publishedAt": "2026-10-03T14:07:29.000Z",
+            "score": 56,
+            "comments": 89,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 49981197,
+            "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+            "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49981197",
+            "publishedAt": "2026-10-06T17:01:52.000Z",
+            "score": 35,
+            "comments": 52,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 49977689,
+            "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+            "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+            "discussionUrl": "https://news.ycombinator.com/item?id=49977689",
+            "publishedAt": "2026-10-06T12:53:58.000Z",
+            "score": 4,
+            "comments": 1,
+            "topics": [
+              "AI & agents"
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "name": "AI & agents",
+            "count": 6
+          },
+          {
+            "name": "Web & tools",
+            "count": 4
+          },
+          {
+            "name": "Graphics",
+            "count": 0
+          },
+          {
+            "name": "Systems & privacy",
+            "count": 2
+          }
+        ],
+        "sampledCount": 60,
+        "matchedCount": 12,
+        "source": "Hacker News"
+      }
+    },
     "weather": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
-      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
+      "lastAttemptAt": "2026-10-06T18:07:08.117Z",
+      "lastSuccessAt": "2026-10-06T18:07:08.117Z",
       "error": null,
       "data": {
         "location": "Plymouth, Minnesota",
@@ -885,8 +1060,8 @@
     },
     "github": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
-      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
+      "lastAttemptAt": "2026-10-06T18:07:08.117Z",
+      "lastSuccessAt": "2026-10-06T18:07:08.117Z",
       "error": null,
       "data": {
         "owner": "AustinPoulson",
@@ -1062,185 +1237,10 @@
         "scope": "Commits on default branches of tracked public repositories; all contributors."
       }
     },
-    "news": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
-      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
-      "error": null,
-      "data": {
-        "stories": [
-          {
-            "id": 49961057,
-            "title": "Anthropic reported diary entry to police, woman faces felony charge",
-            "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49961057",
-            "publishedAt": "2026-10-05T05:37:40.000Z",
-            "score": 782,
-            "comments": 618,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 49963171,
-            "title": "Web Search API",
-            "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49963171",
-            "publishedAt": "2026-10-05T10:47:06.000Z",
-            "score": 577,
-            "comments": 276,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 49969183,
-            "title": "Beam: Reflection's 501B open-weight model",
-            "url": "https://reflection.ai/blog/introducing-beam",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49969183",
-            "publishedAt": "2026-10-05T19:16:35.000Z",
-            "score": 515,
-            "comments": 164,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 49970667,
-            "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-            "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49970667",
-            "publishedAt": "2026-10-05T21:00:21.000Z",
-            "score": 449,
-            "comments": 304,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 49977588,
-            "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
-            "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49977588",
-            "publishedAt": "2026-10-06T12:45:49.000Z",
-            "score": 290,
-            "comments": 188,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 49971719,
-            "title": "Friendship ended with Deno, now Node is my best friend",
-            "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49971719",
-            "publishedAt": "2026-10-05T22:30:02.000Z",
-            "score": 277,
-            "comments": 190,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 49973598,
-            "title": "Why Common Lisp is now the best programming language",
-            "url": "https://www.vivienhenz.com/common-lisp",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49973598",
-            "publishedAt": "2026-10-06T02:51:51.000Z",
-            "score": 260,
-            "comments": 339,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 49965118,
-            "title": "Linux containers in 500 lines of code (2016)",
-            "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49965118",
-            "publishedAt": "2026-10-05T14:09:15.000Z",
-            "score": 136,
-            "comments": 37,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 49980715,
-            "title": "AI is now capable of developing its own inference hardware",
-            "url": "https://github.com/FeSens/openTPU",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49980715",
-            "publishedAt": "2026-10-06T16:23:25.000Z",
-            "score": 114,
-            "comments": 80,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 49944392,
-            "title": "The era of software quality, or the era of ostriches?",
-            "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49944392",
-            "publishedAt": "2026-10-03T14:07:29.000Z",
-            "score": 56,
-            "comments": 89,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 49981197,
-            "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-            "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49981197",
-            "publishedAt": "2026-10-06T17:01:52.000Z",
-            "score": 35,
-            "comments": 52,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 49977689,
-            "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-            "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-            "discussionUrl": "https://news.ycombinator.com/item?id=49977689",
-            "publishedAt": "2026-10-06T12:53:58.000Z",
-            "score": 4,
-            "comments": 1,
-            "topics": [
-              "AI & agents"
-            ]
-          }
-        ],
-        "topics": [
-          {
-            "name": "AI & agents",
-            "count": 6
-          },
-          {
-            "name": "Web & tools",
-            "count": 4
-          },
-          {
-            "name": "Graphics",
-            "count": 0
-          },
-          {
-            "name": "Systems & privacy",
-            "count": 2
-          }
-        ],
-        "sampledCount": 60,
-        "matchedCount": 12,
-        "source": "Hacker News"
-      }
-    },
     "television": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-06T18:06:42.092Z",
-      "lastSuccessAt": "2026-10-06T18:06:42.092Z",
+      "lastAttemptAt": "2026-10-06T18:07:08.117Z",
+      "lastSuccessAt": "2026-10-06T18:07:08.117Z",
       "error": null,
       "data": {
         "episodes": [
