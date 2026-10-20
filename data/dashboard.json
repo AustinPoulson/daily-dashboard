@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:34:54.003Z",
+  "generatedAt": "2026-10-20T17:02:29.178Z",
   "timezone": "America/Chicago",
   "displayName": "Austin",
   "owner": "AustinPoulson",
@@ -8,21 +8,21 @@
   "sources": {
     "weather": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-20T11:34:54.003Z",
-      "lastSuccessAt": "2026-10-20T11:34:54.003Z",
+      "lastAttemptAt": "2026-10-20T17:02:29.178Z",
+      "lastSuccessAt": "2026-10-20T17:02:29.178Z",
       "error": null,
       "data": {
         "location": "Plymouth, Minnesota",
         "timezone": "America/Chicago",
         "current": {
-          "time": "2026-10-20T06:30",
+          "time": "2026-10-20T12:00",
           "interval": 900,
-          "temperature_2m": 39.8,
-          "apparent_temperature": 34.8,
-          "relative_humidity_2m": 88,
+          "temperature_2m": 61,
+          "apparent_temperature": 56.6,
+          "relative_humidity_2m": 58,
           "weather_code": 0,
-          "wind_speed_10m": 4.5,
-          "is_day": 0
+          "wind_speed_10m": 8,
+          "is_day": 1
         },
         "units": {
           "time": "iso8601",
@@ -45,40 +45,40 @@
             "2026-10-26"
           ],
           "weather_code": [
-            0,
-            0,
             3,
+            2,
+            0,
             3,
             53,
             51,
             51
           ],
           "temperature_2m_max": [
-            65,
-            69.5,
+            67,
+            70.2,
             73.3,
             72.2,
-            71.3,
+            71.4,
             56.4,
             44
           ],
           "temperature_2m_min": [
-            38.7,
-            44,
-            55.7,
+            40,
+            43.4,
+            47.6,
             59.4,
-            57.3,
-            45,
-            38.6
+            56.4,
+            44,
+            37.7
           ],
           "precipitation_probability_max": [
-            1,
-            2,
             0,
-            11,
-            23,
-            19,
-            12
+            3,
+            0,
+            15,
+            37,
+            25,
+            9
           ],
           "sunrise": [
             "2026-10-20T07:36",
@@ -276,57 +276,57 @@
             43,
             42.5,
             41.7,
-            40.9,
-            40.1,
-            39.3,
-            38.7,
-            43.1,
-            48.8,
-            53.5,
-            57.7,
-            60.8,
-            63.7,
-            65,
-            65,
-            63.7,
-            59.4,
-            55.2,
-            53.1,
-            51.6,
-            50.6,
-            49.9,
-            48.8,
-            47.8,
-            46.8,
-            45.8,
-            45.2,
-            45,
-            44.7,
-            44,
-            44.3,
-            49,
-            54.3,
-            58.6,
-            62.1,
-            65.1,
-            67.7,
-            69.1,
-            69.5,
-            68.5,
-            63.8,
-            59.7,
-            56.6,
-            54.5,
-            53.4,
-            54.2,
+            41.1,
+            40.3,
+            40.7,
+            40.2,
+            45.5,
+            53,
+            57.4,
+            61,
+            64,
+            66.4,
+            67,
+            66.4,
+            65.2,
+            61.4,
+            57.4,
             55.7,
-            57.2,
-            59.4,
-            58.7,
-            58.3,
-            57.9,
-            57.2,
-            56.8,
+            54.2,
+            52.4,
+            50.9,
+            49.7,
+            48.9,
+            48.4,
+            48,
+            46.6,
+            45.7,
+            44.8,
+            44,
+            43.8,
+            48.7,
+            54.6,
+            59,
+            62.6,
+            65.9,
+            68.4,
+            69.8,
+            70.2,
+            69.5,
+            65.7,
+            60.8,
+            58.1,
+            56,
+            54.5,
+            53.2,
+            51.9,
+            50.1,
+            49.3,
+            48.2,
+            47.6,
+            49.6,
+            51.7,
+            54,
             56.5,
             58.3,
             61.4,
@@ -463,22 +463,21 @@
             0,
             0,
             0,
+            0,
+            0,
             1,
             1,
             1,
             1,
-            1,
             2,
             2,
             2,
             2,
             2,
             2,
+            3,
             2,
             2,
-            2,
-            2,
-            1,
             1,
             1,
             0,
@@ -521,94 +520,95 @@
             0,
             0,
             0,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            11,
-            11,
-            11,
-            11,
-            11,
-            11,
-            5,
-            5,
-            5,
-            5,
-            5,
-            5,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            11,
-            11,
-            11,
-            11,
-            11,
-            11,
-            23,
-            23,
-            23,
-            23,
-            23,
-            23,
-            19,
-            19,
-            19,
-            19,
-            19,
-            19,
-            19,
-            19,
-            19,
-            19,
-            19,
-            19,
+            0,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
             15,
             15,
             15,
             15,
             15,
             15,
-            17,
-            17,
-            17,
-            17,
-            17,
-            17,
-            12,
-            12,
-            12,
-            12,
-            12,
-            12,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
             8,
             8,
             8,
             8,
             8,
             8,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            37,
+            37,
+            37,
+            37,
+            37,
+            37,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15,
+            13,
+            13,
+            13,
+            13,
+            13,
+            13,
             9,
             9,
             9,
-            9
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            9,
+            9,
+            9,
+            9,
+            9,
+            9,
+            5,
+            5,
+            5,
+            5
           ],
           "weather_code": [
             0,
@@ -618,53 +618,53 @@
             0,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
+            2,
             3,
+            1,
             0,
-            3,
-            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0,
             0,
@@ -785,11 +785,83 @@
     },
     "horror": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-20T11:34:54.003Z",
-      "lastSuccessAt": "2026-10-20T11:34:54.003Z",
+      "lastAttemptAt": "2026-10-20T17:02:29.178Z",
+      "lastSuccessAt": "2026-10-20T17:02:29.178Z",
       "error": null,
       "data": {
         "stories": [
+          {
+            "id": "https://bloody-disgusting.com/?p=3972556",
+            "title": "‘Above the Below’: Idris Elba Is in Over His Head in Trailer for Survival Thriller",
+            "url": "https://bloody-disgusting.com/movie/3972556/above-the-below-idris-elba-trailer/",
+            "publishedAt": "2026-10-20T16:52:14.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3972555",
+            "title": "‘Deadstream’ Directors Joseph and Vanessa Winter To Helm Reddit/NoSleep Horror Movie ‘Future Me’",
+            "url": "https://bloody-disgusting.com/movie/3972555/deadstream-directors-joseph-and-vanessa-winter-to-helm-reddit-nosleep-horror-movie-future-me/",
+            "publishedAt": "2026-10-20T16:27:55.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3972536",
+            "title": "‘Hatchet’ and ‘Chillerama’ Star Richard Riehle Passes Away at 78",
+            "url": "https://bloody-disgusting.com/movie/3972536/richard-riehle-death-obituary/",
+            "publishedAt": "2026-10-20T16:08:57.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3972520",
+            "title": "‘The Conjuring: Unspoken’ Review: Netflix’s Interactive Horror Game Makes Great Use of Your Phone",
+            "url": "https://bloody-disgusting.com/reviews/3972520/conjuring-unspoken-review/",
+            "publishedAt": "2026-10-20T15:46:03.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3972522",
+            "title": "‘Unsolved Mysteries’ Returning as Video Podcast Series",
+            "url": "https://bloody-disgusting.com/news/3972522/unsolved-mysteries-reboot-podcast-series/",
+            "publishedAt": "2026-10-20T15:40:17.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3972501",
+            "title": "‘Frogman Returns’ Review: Cryptid Sequel Takes A Bigger, Weirder Worthy Leap Beyond The Original",
+            "url": "https://bloody-disgusting.com/reviews/3972501/frogman-returns-review-cryptid-sequel-takes-a-bigger-weirder-worthy-leap-beyond-the-original/",
+            "publishedAt": "2026-10-20T14:42:48.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3972412",
+            "title": "‘Drag’ Review: Lizzy Caplan Leads a Brutal, Darkly Funny Home Invasion Comedy [TADFF 2026]",
+            "url": "https://bloody-disgusting.com/reviews/3972412/drag-review-lizzy-caplan-headlines-black-comedy-home-invasion-flick-tadff-2026/",
+            "publishedAt": "2026-10-20T13:31:31.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3972467",
+            "title": "‘Slayground’ Trailer – Jeremy Saulnier’s Halloween Movie Begins With a Haunted Attraction Massacre",
+            "url": "https://bloody-disgusting.com/movie/3972467/slayground-trailer-jeremy-saulniers-halloween-movie-begins-with-a-haunted-attraction-massacre/",
+            "publishedAt": "2026-10-20T12:59:25.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
           {
             "id": "https://bloody-disgusting.com/?p=3972442",
             "title": "‘Widow’s Bay’ Star’s New Psychological Horror Releases First Look",
@@ -807,257 +879,15 @@
             "publishedAt": "2026-10-19T21:54:22.000Z",
             "topics": [],
             "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3972433",
-            "title": "‘Crystal Lake’ Showrunner Admits His Attempts to Include More Sex and Nudity Were “Overruled”",
-            "url": "https://bloody-disgusting.com/news/3972433/crystal-lake-showrunner-cut-sex-scenes-friday-the-13th/",
-            "publishedAt": "2026-10-19T20:37:02.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3972426",
-            "title": "‘Riverdale’ Star Hopes to Return for Apocalyptic Zombie Series ‘Afterlife With Archie’",
-            "url": "https://bloody-disgusting.com/news/3972426/afterlife-with-archie-kj-apa-return-riverdale/",
-            "publishedAt": "2026-10-19T18:54:43.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3972422",
-            "title": "‘Jennifer’s Body 2’ Will Explore a More “Sympathetic” Side of Megan Fox’s Demon",
-            "url": "https://bloody-disgusting.com/movie/3972422/jennifers-body-2-story-update-diablo-cody/",
-            "publishedAt": "2026-10-19T18:00:11.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3972418",
-            "title": "‘Obsession’ Finally Coming to Netflix in November",
-            "url": "https://bloody-disgusting.com/movie/3972418/obsession-netflix-streaming-release-date/",
-            "publishedAt": "2026-10-19T17:07:28.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3972405",
-            "title": "‘Whalefall’ Debuts to $8 Million at the U.S. Box Office",
-            "url": "https://bloody-disgusting.com/movie/3972405/whalefall-opening-weekend-box-office-austin-abrams/",
-            "publishedAt": "2026-10-19T16:44:30.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3972398",
-            "title": "George A. Romero’s Long-Lost First Movie to Finally Screen at One-Night-Only Event",
-            "url": "https://bloody-disgusting.com/movie/3972398/george-a-romero-first-movie-expostulations-screening-event/",
-            "publishedAt": "2026-10-19T15:30:42.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3972389",
-            "title": "Every ‘Friday the 13th’ Easter Egg in ‘Crystal Lake’ Season 1 Explained",
-            "url": "https://bloody-disgusting.com/editorials/3972389/every-friday-the-13th-easter-egg-in-crystal-lake-season-1-explained/",
-            "publishedAt": "2026-10-19T15:16:27.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3972391",
-            "title": "‘Slayground’ Poster Reveals January Release Date for A24’s Haunted House Horror",
-            "url": "https://bloody-disgusting.com/movie/3972391/slayground-poster-release-date-jeremy-saulnier/",
-            "publishedAt": "2026-10-19T15:07:50.000Z",
-            "topics": [
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
           }
         ],
         "source": "Bloody Disgusting"
       }
     },
-    "news": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-10-20T11:34:54.003Z",
-      "lastSuccessAt": "2026-10-20T11:34:54.003Z",
-      "error": null,
-      "data": {
-        "stories": [
-          {
-            "id": 50152976,
-            "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
-            "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50152976",
-            "publishedAt": "2026-10-19T14:31:27.000Z",
-            "score": 23,
-            "comments": 1,
-            "topics": [
-              "AI & agents",
-              "Graphics"
-            ]
-          },
-          {
-            "id": 50134472,
-            "title": "It's still ok to enjoy programming",
-            "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50134472",
-            "publishedAt": "2026-10-17T19:53:20.000Z",
-            "score": 624,
-            "comments": 539,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50149392,
-            "title": "Linux 7.3",
-            "url": "https://lwn.net/Articles/1101143/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50149392",
-            "publishedAt": "2026-10-19T07:23:57.000Z",
-            "score": 619,
-            "comments": 285,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 50159341,
-            "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-            "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50159341",
-            "publishedAt": "2026-10-19T23:22:18.000Z",
-            "score": 488,
-            "comments": 143,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50151036,
-            "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-            "url": "https://news.ycombinator.com/item?id=50151036",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50151036",
-            "publishedAt": "2026-10-19T11:24:34.000Z",
-            "score": 483,
-            "comments": 615,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50158100,
-            "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-            "url": "https://josie.lol/blog/linux-rtx-spark",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50158100",
-            "publishedAt": "2026-10-19T21:08:18.000Z",
-            "score": 248,
-            "comments": 124,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 50136126,
-            "title": "RuneScape Bench: MMOs for Agents [video]",
-            "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50136126",
-            "publishedAt": "2026-10-17T23:24:05.000Z",
-            "score": 204,
-            "comments": 70,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50158138,
-            "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-            "url": "https://bsd.network/@brynet/117407035545900963",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50158138",
-            "publishedAt": "2026-10-19T21:11:45.000Z",
-            "score": 159,
-            "comments": 38,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 50151376,
-            "title": "The obscure trust looming over Anthropic's IPO",
-            "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50151376",
-            "publishedAt": "2026-10-19T12:06:03.000Z",
-            "score": 146,
-            "comments": 127,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50152466,
-            "title": "Maxwell: A new kind of model that sits between code and hardware",
-            "url": "https://heymaxwell.ai/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50152466",
-            "publishedAt": "2026-10-19T13:47:56.000Z",
-            "score": 85,
-            "comments": 42,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50154029,
-            "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
-            "url": "https://news.ycombinator.com/item?id=50154029",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50154029",
-            "publishedAt": "2026-10-19T16:00:18.000Z",
-            "score": 58,
-            "comments": 24,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50163142,
-            "title": "There is no official XScreenSaver GitHub repository",
-            "url": "https://github.com/xscreensaver-official/xscreensaver",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50163142",
-            "publishedAt": "2026-10-20T08:51:31.000Z",
-            "score": 40,
-            "comments": 17,
-            "topics": [
-              "Web & tools"
-            ]
-          }
-        ],
-        "topics": [
-          {
-            "name": "AI & agents",
-            "count": 7
-          },
-          {
-            "name": "Web & tools",
-            "count": 2
-          },
-          {
-            "name": "Graphics",
-            "count": 1
-          },
-          {
-            "name": "Systems & privacy",
-            "count": 3
-          }
-        ],
-        "sampledCount": 59,
-        "matchedCount": 12,
-        "source": "Hacker News"
-      }
-    },
     "github": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-20T11:34:54.003Z",
-      "lastSuccessAt": "2026-10-20T11:34:54.003Z",
+      "lastAttemptAt": "2026-10-20T17:02:29.178Z",
+      "lastSuccessAt": "2026-10-20T17:02:29.178Z",
       "error": null,
       "data": {
         "owner": "AustinPoulson",
@@ -1233,10 +1063,185 @@
         "scope": "Commits on default branches of tracked public repositories; all contributors."
       }
     },
+    "news": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-10-20T17:02:29.178Z",
+      "lastSuccessAt": "2026-10-20T17:02:29.178Z",
+      "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": 50159341,
+            "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+            "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50159341",
+            "publishedAt": "2026-10-19T23:22:18.000Z",
+            "score": 676,
+            "comments": 195,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50136126,
+            "title": "RuneScape Bench: MMOs for Agents [video]",
+            "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50136126",
+            "publishedAt": "2026-10-17T23:24:05.000Z",
+            "score": 232,
+            "comments": 80,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50158138,
+            "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+            "url": "https://bsd.network/@brynet/117407035545900963",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50158138",
+            "publishedAt": "2026-10-19T21:11:45.000Z",
+            "score": 174,
+            "comments": 43,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50165953,
+            "title": "Tsrs: A Port of TypeScript to Rust",
+            "url": "https://blog.cloudflare.com/typescript-rust-port/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50165953",
+            "publishedAt": "2026-10-20T13:18:07.000Z",
+            "score": 145,
+            "comments": 78,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50152466,
+            "title": "Maxwell: A new kind of model that sits between code and hardware",
+            "url": "https://heymaxwell.ai/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50152466",
+            "publishedAt": "2026-10-19T13:47:56.000Z",
+            "score": 124,
+            "comments": 59,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50167286,
+            "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+            "url": "https://github.com/KatrielMoses/voidaccess",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50167286",
+            "publishedAt": "2026-10-20T14:49:33.000Z",
+            "score": 100,
+            "comments": 12,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50167617,
+            "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+            "url": "https://jevcards.com/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50167617",
+            "publishedAt": "2026-10-20T15:11:56.000Z",
+            "score": 28,
+            "comments": 11,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50168190,
+            "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+            "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50168190",
+            "publishedAt": "2026-10-20T15:48:26.000Z",
+            "score": 25,
+            "comments": 2,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50167604,
+            "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+            "url": "https://github.com/AbdullahAlhariri/penmentor",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50167604",
+            "publishedAt": "2026-10-20T15:10:54.000Z",
+            "score": 22,
+            "comments": 2,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50167583,
+            "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+            "url": "https://news.ycombinator.com/item?id=50167583",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50167583",
+            "publishedAt": "2026-10-20T15:09:29.000Z",
+            "score": 21,
+            "comments": 13,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50167564,
+            "title": "AI models self-replicating in smart ovens? \"These f[..]g clowns\"",
+            "url": "https://www.thestack.technology/these-f-clowns/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50167564",
+            "publishedAt": "2026-10-20T15:07:56.000Z",
+            "score": 10,
+            "comments": 0,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50167533,
+            "title": "In-memory privacy shield to prevent context leaks in MCP tools",
+            "url": "https://github.com/rohan-protocol/sdk",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50167533",
+            "publishedAt": "2026-10-20T15:05:53.000Z",
+            "score": 7,
+            "comments": 1,
+            "topics": [
+              "Systems & privacy"
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "name": "AI & agents",
+            "count": 8
+          },
+          {
+            "name": "Web & tools",
+            "count": 2
+          },
+          {
+            "name": "Graphics",
+            "count": 0
+          },
+          {
+            "name": "Systems & privacy",
+            "count": 2
+          }
+        ],
+        "sampledCount": 59,
+        "matchedCount": 12,
+        "source": "Hacker News"
+      }
+    },
     "television": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-20T11:34:54.003Z",
-      "lastSuccessAt": "2026-10-20T11:34:54.003Z",
+      "lastAttemptAt": "2026-10-20T17:02:29.178Z",
+      "lastSuccessAt": "2026-10-20T17:02:29.178Z",
       "error": null,
       "data": {
         "episodes": [
