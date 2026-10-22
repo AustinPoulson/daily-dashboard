@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T21:41:59.438Z",
+  "generatedAt": "2026-10-22T04:43:10.104Z",
   "timezone": "America/Chicago",
   "displayName": "Austin",
   "owner": "AustinPoulson",
@@ -8,8 +8,8 @@
   "sources": {
     "horror": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-21T21:41:59.438Z",
-      "lastSuccessAt": "2026-10-21T21:41:59.438Z",
+      "lastAttemptAt": "2026-10-22T04:43:10.104Z",
+      "lastSuccessAt": "2026-10-22T04:43:10.104Z",
       "error": null,
       "data": {
         "stories": [
@@ -40,6 +40,16 @@
             "publishedAt": "2026-10-20T21:17:44.000Z",
             "topics": [
               "Tech & identity",
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3972826",
+            "title": "Ripcord’s Halloween Film Festival – Watch and Vote on 50 Genre Shorts for Free!",
+            "url": "https://bloody-disgusting.com/sponsored/3972826/ripcords-register-vote/",
+            "publishedAt": "2026-10-22T02:22:51.000Z",
+            "topics": [
               "Horror"
             ],
             "source": "Bloody Disgusting"
@@ -99,440 +109,28 @@
               "Horror"
             ],
             "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3972671",
-            "title": "Steam Next Fest: 5 Must-Play Horror Demos for the Halloween Season",
-            "url": "https://bloody-disgusting.com/editorials/3972671/steam-next-fest-5-must-play-horror-demos-for-the-halloween-season/",
-            "publishedAt": "2026-10-21T17:59:15.000Z",
-            "topics": [
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
           }
         ],
         "source": "Bloody Disgusting"
       }
     },
-    "news": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-10-21T21:41:59.438Z",
-      "lastSuccessAt": "2026-10-21T21:41:59.438Z",
-      "error": null,
-      "data": {
-        "stories": [
-          {
-            "id": 50175070,
-            "title": "The Future of CSS",
-            "url": "https://www.joshwcomeau.com/css/interop-2027/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50175070",
-            "publishedAt": "2026-10-21T01:47:28.000Z",
-            "score": 581,
-            "comments": 257,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50182987,
-            "title": "Today's PHP security release, and how we're strengthening security",
-            "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50182987",
-            "publishedAt": "2026-10-21T15:48:56.000Z",
-            "score": 519,
-            "comments": 265,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 50180836,
-            "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-            "url": "https://www.wiz.io/blog/php2shell-php-rce",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50180836",
-            "publishedAt": "2026-10-21T13:43:19.000Z",
-            "score": 422,
-            "comments": 167,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50181175,
-            "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-            "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50181175",
-            "publishedAt": "2026-10-21T14:03:43.000Z",
-            "score": 202,
-            "comments": 131,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50186037,
-            "title": "Claude Duet",
-            "url": "https://claude.com/product/claude-duet",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50186037",
-            "publishedAt": "2026-10-21T19:14:01.000Z",
-            "score": 196,
-            "comments": 169,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50180079,
-            "title": "OpenAI models are coming to Google Cloud",
-            "url": "https://openai.com/index/openai-models-google-cloud/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50180079",
-            "publishedAt": "2026-10-21T12:53:11.000Z",
-            "score": 185,
-            "comments": 84,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50175779,
-            "title": "Using Claude to reduce the attack surface of code",
-            "url": "https://www.anthropic.com/research/attack-surface-reduction",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50175779",
-            "publishedAt": "2026-10-21T03:36:43.000Z",
-            "score": 127,
-            "comments": 84,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50180752,
-            "title": "Using thousands of AI agents to uncover new leads in biological data",
-            "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50180752",
-            "publishedAt": "2026-10-21T13:37:00.000Z",
-            "score": 113,
-            "comments": 61,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50185045,
-            "title": "The compiler was supposed to end programming too",
-            "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50185045",
-            "publishedAt": "2026-10-21T18:00:51.000Z",
-            "score": 86,
-            "comments": 123,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50180039,
-            "title": "Show HN: Sumi.css – CSS Framework",
-            "url": "https://github.com/vladocar/Sumi.css",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50180039",
-            "publishedAt": "2026-10-21T12:50:33.000Z",
-            "score": 67,
-            "comments": 16,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50155751,
-            "title": "C++ futures part 1: The mental model",
-            "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50155751",
-            "publishedAt": "2026-10-19T18:05:53.000Z",
-            "score": 59,
-            "comments": 11,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50186043,
-            "title": "Google staff resign in backlash over its AI contracts with military",
-            "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50186043",
-            "publishedAt": "2026-10-21T19:14:21.000Z",
-            "score": 51,
-            "comments": 2,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50183344,
-            "title": "The bridge to agent-scale Git infrastructure",
-            "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50183344",
-            "publishedAt": "2026-10-21T16:09:28.000Z",
-            "score": 42,
-            "comments": 9,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50183253,
-            "title": "AI agent fixed the bug, but what else did it change?",
-            "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50183253",
-            "publishedAt": "2026-10-21T16:03:32.000Z",
-            "score": 42,
-            "comments": 5,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50186518,
-            "title": "After automation: Solo founding will be the default",
-            "url": "https://every.to/thesis-statements/julian-weisser",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50186518",
-            "publishedAt": "2026-10-21T19:44:49.000Z",
-            "score": 40,
-            "comments": 47,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50185218,
-            "title": "Meta fined $25B for 'lies' over user data privacy",
-            "url": "https://www.bbc.com/news/articles/cqdr8zxrr3dxo",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50185218",
-            "publishedAt": "2026-10-21T18:14:39.000Z",
-            "score": 37,
-            "comments": 1,
-            "topics": [
-              "Systems & privacy"
-            ]
-          }
-        ],
-        "topics": [
-          {
-            "name": "AI & agents",
-            "count": 12
-          },
-          {
-            "name": "Web & tools",
-            "count": 5
-          },
-          {
-            "name": "Graphics",
-            "count": 0
-          },
-          {
-            "name": "Systems & privacy",
-            "count": 4
-          }
-        ],
-        "sampledCount": 59,
-        "matchedCount": 21,
-        "source": "Hacker News"
-      }
-    },
-    "github": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-10-21T21:41:59.438Z",
-      "lastSuccessAt": "2026-10-21T21:41:59.438Z",
-      "error": null,
-      "data": {
-        "owner": "AustinPoulson",
-        "repositories": [
-          {
-            "name": "abyss",
-            "url": "https://github.com/AustinPoulson/abyss",
-            "description": "",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2026-09-16T16:13:04Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "HomePage",
-            "url": "https://github.com/AustinPoulson/HomePage",
-            "description": "Custom home page for my browser",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2025-08-04T22:02:04Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "devScripts",
-            "url": "https://github.com/AustinPoulson/devScripts",
-            "description": "Some scripts to make dev work easier",
-            "language": "Batchfile",
-            "stars": 0,
-            "pushedAt": "2024-03-24T02:41:31Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "RataTaskr",
-            "url": "https://github.com/AustinPoulson/RataTaskr",
-            "description": "Library of tools to aggregate data",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2024-12-03T23:30:50Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          }
-        ],
-        "activity": [
-          {
-            "date": "2026-09-24",
-            "count": 0
-          },
-          {
-            "date": "2026-09-25",
-            "count": 0
-          },
-          {
-            "date": "2026-09-26",
-            "count": 0
-          },
-          {
-            "date": "2026-09-27",
-            "count": 0
-          },
-          {
-            "date": "2026-09-28",
-            "count": 0
-          },
-          {
-            "date": "2026-09-29",
-            "count": 0
-          },
-          {
-            "date": "2026-09-30",
-            "count": 0
-          },
-          {
-            "date": "2026-10-01",
-            "count": 0
-          },
-          {
-            "date": "2026-10-02",
-            "count": 0
-          },
-          {
-            "date": "2026-10-03",
-            "count": 0
-          },
-          {
-            "date": "2026-10-04",
-            "count": 0
-          },
-          {
-            "date": "2026-10-05",
-            "count": 0
-          },
-          {
-            "date": "2026-10-06",
-            "count": 0
-          },
-          {
-            "date": "2026-10-07",
-            "count": 0
-          },
-          {
-            "date": "2026-10-08",
-            "count": 0
-          },
-          {
-            "date": "2026-10-09",
-            "count": 0
-          },
-          {
-            "date": "2026-10-10",
-            "count": 0
-          },
-          {
-            "date": "2026-10-11",
-            "count": 0
-          },
-          {
-            "date": "2026-10-12",
-            "count": 0
-          },
-          {
-            "date": "2026-10-13",
-            "count": 0
-          },
-          {
-            "date": "2026-10-14",
-            "count": 0
-          },
-          {
-            "date": "2026-10-15",
-            "count": 0
-          },
-          {
-            "date": "2026-10-16",
-            "count": 0
-          },
-          {
-            "date": "2026-10-17",
-            "count": 0
-          },
-          {
-            "date": "2026-10-18",
-            "count": 0
-          },
-          {
-            "date": "2026-10-19",
-            "count": 0
-          },
-          {
-            "date": "2026-10-20",
-            "count": 0
-          },
-          {
-            "date": "2026-10-21",
-            "count": 0
-          }
-        ],
-        "totalCommits": 0,
-        "scope": "Commits on default branches of tracked public repositories; all contributors."
-      }
-    },
     "weather": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-21T21:41:59.438Z",
-      "lastSuccessAt": "2026-10-21T21:41:59.438Z",
+      "lastAttemptAt": "2026-10-22T04:43:10.104Z",
+      "lastSuccessAt": "2026-10-22T04:43:10.104Z",
       "error": null,
       "data": {
         "location": "Plymouth, Minnesota",
         "timezone": "America/Chicago",
         "current": {
-          "time": "2026-10-21T16:30",
+          "time": "2026-10-21T23:30",
           "interval": 900,
-          "temperature_2m": 71.8,
-          "apparent_temperature": 70.3,
-          "relative_humidity_2m": 44,
+          "temperature_2m": 50.6,
+          "apparent_temperature": 48.9,
+          "relative_humidity_2m": 80,
           "weather_code": 0,
-          "wind_speed_10m": 2.8,
-          "is_day": 1
+          "wind_speed_10m": 0.9,
+          "is_day": 0
         },
         "units": {
           "time": "iso8601",
@@ -556,17 +154,17 @@
           ],
           "weather_code": [
             1,
-            3,
-            53,
+            1,
+            51,
             51,
             63,
             53,
             55
           ],
           "temperature_2m_max": [
-            72.1,
-            73.2,
-            70.3,
+            72.6,
+            73.4,
+            73.4,
             72.7,
             61.8,
             50,
@@ -574,8 +172,8 @@
           ],
           "temperature_2m_min": [
             45.4,
-            45.9,
-            51.1,
+            43.6,
+            51.8,
             61.8,
             50,
             43.6,
@@ -584,10 +182,10 @@
           "precipitation_probability_max": [
             1,
             2,
-            12,
-            27,
-            35,
-            44,
+            9,
+            32,
+            19,
+            48,
             31
           ],
           "sunrise": [
@@ -797,58 +395,58 @@
             68,
             70.9,
             72.1,
+            72.6,
             72,
-            71.2,
-            67.3,
-            63.9,
-            61.8,
-            59.1,
-            57,
-            54.5,
-            53,
-            52.4,
-            51.5,
-            50.4,
-            49.5,
-            48.6,
-            47.5,
-            46.5,
-            45.8,
-            49.1,
-            55.5,
-            61.1,
-            65.6,
-            69.2,
-            71.5,
-            72.8,
-            73.1,
-            72.3,
-            67.9,
-            63.8,
-            61.4,
-            59.3,
-            58.3,
-            57.8,
-            56.9,
-            55.9,
-            55.3,
-            54.6,
-            53.8,
+            68.3,
+            62.9,
+            57.6,
+            54.2,
             53.1,
-            52.3,
-            51.7,
             51.4,
-            55.6,
-            62.2,
-            66.5,
-            69.8,
-            68.2,
-            63,
-            63.5,
-            63.9,
-            64.8,
-            65.1,
-            65.9,
+            50.2,
+            49.9,
+            48.9,
+            47.7,
+            46.6,
+            45.8,
+            45,
+            44.2,
+            43.6,
+            47.1,
+            54.6,
+            59.9,
+            64,
+            67.5,
+            69.6,
+            70.9,
+            71.3,
+            73.3,
+            68.7,
+            64.4,
+            61.9,
+            59.8,
+            58.6,
+            57.5,
+            57.2,
+            56.7,
+            56.3,
+            55.7,
+            54.9,
+            53.7,
+            53.3,
+            52.5,
+            52,
+            56,
+            61.9,
+            66.1,
+            70.1,
+            71.7,
+            72.7,
+            73.4,
+            72.7,
+            70,
+            66.6,
+            65.7,
             66.1,
             65.3,
             64.9,
@@ -996,129 +594,129 @@
             1,
             1,
             1,
-            1,
-            2,
-            2,
             2,
             2,
             2,
             3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            2,
+            2,
             0,
             0,
             0,
-            0,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            12,
-            12,
-            12,
-            12,
-            12,
-            12,
             9,
             9,
             9,
             9,
             9,
             9,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            14,
-            14,
-            14,
-            14,
-            14,
-            14,
-            27,
-            27,
-            27,
-            27,
-            27,
-            27,
-            26,
-            26,
-            26,
-            26,
-            26,
-            26,
-            25,
-            25,
-            25,
-            25,
-            25,
-            25,
-            28,
-            28,
-            28,
-            28,
-            28,
-            28,
-            15,
-            15,
-            15,
-            15,
-            15,
-            15,
-            35,
-            35,
-            35,
-            35,
-            35,
-            35,
-            39,
-            39,
-            39,
-            39,
-            39,
-            39,
-            44,
-            44,
-            44,
-            44,
-            44,
-            44,
-            39,
-            39,
-            39,
-            39,
-            39,
-            39,
-            31,
-            31,
-            31,
-            31,
-            31,
-            31,
-            29,
-            29,
-            29,
-            29,
-            29,
-            29,
-            22,
-            22,
-            22,
-            22,
-            22,
-            22,
-            16,
-            16,
-            16,
-            16,
-            16,
-            16,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
             12,
             12,
             12,
-            12
+            12,
+            12,
+            12,
+            32,
+            32,
+            32,
+            32,
+            32,
+            32,
+            16,
+            16,
+            16,
+            16,
+            16,
+            16,
+            14,
+            14,
+            14,
+            14,
+            14,
+            14,
+            13,
+            13,
+            13,
+            13,
+            13,
+            13,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            19,
+            19,
+            19,
+            19,
+            19,
+            19,
+            47,
+            47,
+            47,
+            47,
+            47,
+            47,
+            48,
+            48,
+            48,
+            48,
+            48,
+            48,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            31,
+            31,
+            31,
+            31,
+            31,
+            31,
+            24,
+            24,
+            24,
+            24,
+            24,
+            24,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            18,
+            18,
+            18,
+            18,
+            18,
+            18,
+            15,
+            15,
+            15,
+            15
           ],
           "weather_code": [
             0,
@@ -1145,21 +743,6 @@
             0,
             0,
             0,
-            1,
-            3,
-            3,
-            1,
-            2,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
             0,
             0,
             0,
@@ -1175,20 +758,35 @@
             0,
             1,
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
             1,
             3,
             3,
-            2,
             3,
             3,
             3,
             3,
-            53,
             3,
+            51,
             3,
-            3,
-            3,
-            2,
             3,
             3,
             3,
@@ -1293,10 +891,413 @@
         }
       }
     },
+    "news": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-10-22T04:43:10.104Z",
+      "lastSuccessAt": "2026-10-22T04:43:10.104Z",
+      "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": 50168142,
+            "title": "Show HN: AI-built browser games, collected in one place",
+            "url": "https://playgroundarcade.com/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50168142",
+            "publishedAt": "2026-10-20T15:45:56.000Z",
+            "score": 20,
+            "comments": 1,
+            "topics": [
+              "AI & agents",
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50182987,
+            "title": "Today's PHP security release, and how we're strengthening security",
+            "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50182987",
+            "publishedAt": "2026-10-21T15:48:56.000Z",
+            "score": 698,
+            "comments": 345,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50188228,
+            "title": "Security Disclosure",
+            "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50188228",
+            "publishedAt": "2026-10-21T21:58:03.000Z",
+            "score": 375,
+            "comments": 213,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50186037,
+            "title": "Claude Duet",
+            "url": "https://claude.com/product/claude-duet",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50186037",
+            "publishedAt": "2026-10-21T19:14:01.000Z",
+            "score": 336,
+            "comments": 301,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50180079,
+            "title": "OpenAI models are coming to Google Cloud",
+            "url": "https://openai.com/index/openai-models-google-cloud/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50180079",
+            "publishedAt": "2026-10-21T12:53:11.000Z",
+            "score": 261,
+            "comments": 110,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50181175,
+            "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+            "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50181175",
+            "publishedAt": "2026-10-21T14:03:43.000Z",
+            "score": 244,
+            "comments": 164,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50180752,
+            "title": "Using thousands of AI agents to uncover new leads in biological data",
+            "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50180752",
+            "publishedAt": "2026-10-21T13:37:00.000Z",
+            "score": 137,
+            "comments": 86,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50187708,
+            "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+            "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50187708",
+            "publishedAt": "2026-10-21T21:12:59.000Z",
+            "score": 112,
+            "comments": 26,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50186455,
+            "title": "Claude Duet",
+            "url": "https://claude.com/resources/articles/claude-duet",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50186455",
+            "publishedAt": "2026-10-21T19:40:18.000Z",
+            "score": 66,
+            "comments": 7,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50155751,
+            "title": "C++ futures part 1: The mental model",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50155751",
+            "publishedAt": "2026-10-19T18:05:53.000Z",
+            "score": 65,
+            "comments": 14,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50183344,
+            "title": "The bridge to agent-scale Git infrastructure",
+            "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50183344",
+            "publishedAt": "2026-10-21T16:09:28.000Z",
+            "score": 59,
+            "comments": 15,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50176908,
+            "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+            "url": "https://alterauth.com/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50176908",
+            "publishedAt": "2026-10-21T06:42:12.000Z",
+            "score": 57,
+            "comments": 25,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50183892,
+            "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+            "url": "https://github.com/omnara-ai/omnara",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50183892",
+            "publishedAt": "2026-10-21T16:44:53.000Z",
+            "score": 46,
+            "comments": 13,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50176082,
+            "title": "Using LLM for confidence scoring is a bad idea",
+            "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50176082",
+            "publishedAt": "2026-10-21T04:27:51.000Z",
+            "score": 29,
+            "comments": 24,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50190334,
+            "title": "LLM agents play Pokemon showdown",
+            "url": "https://olivergrabner.com/research/pokemon/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50190334",
+            "publishedAt": "2026-10-22T02:13:48.000Z",
+            "score": 19,
+            "comments": 11,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50190357,
+            "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+            "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50190357",
+            "publishedAt": "2026-10-22T02:17:58.000Z",
+            "score": 4,
+            "comments": 0,
+            "topics": [
+              "AI & agents"
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "name": "AI & agents",
+            "count": 13
+          },
+          {
+            "name": "Web & tools",
+            "count": 2
+          },
+          {
+            "name": "Graphics",
+            "count": 0
+          },
+          {
+            "name": "Systems & privacy",
+            "count": 2
+          }
+        ],
+        "sampledCount": 59,
+        "matchedCount": 16,
+        "source": "Hacker News"
+      }
+    },
+    "github": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-10-22T04:43:10.104Z",
+      "lastSuccessAt": "2026-10-22T04:43:10.104Z",
+      "error": null,
+      "data": {
+        "owner": "AustinPoulson",
+        "repositories": [
+          {
+            "name": "abyss",
+            "url": "https://github.com/AustinPoulson/abyss",
+            "description": "",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2026-09-16T16:13:04Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "HomePage",
+            "url": "https://github.com/AustinPoulson/HomePage",
+            "description": "Custom home page for my browser",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2025-08-04T22:02:04Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "devScripts",
+            "url": "https://github.com/AustinPoulson/devScripts",
+            "description": "Some scripts to make dev work easier",
+            "language": "Batchfile",
+            "stars": 0,
+            "pushedAt": "2024-03-24T02:41:31Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "RataTaskr",
+            "url": "https://github.com/AustinPoulson/RataTaskr",
+            "description": "Library of tools to aggregate data",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2024-12-03T23:30:50Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          }
+        ],
+        "activity": [
+          {
+            "date": "2026-09-24",
+            "count": 0
+          },
+          {
+            "date": "2026-09-25",
+            "count": 0
+          },
+          {
+            "date": "2026-09-26",
+            "count": 0
+          },
+          {
+            "date": "2026-09-27",
+            "count": 0
+          },
+          {
+            "date": "2026-09-28",
+            "count": 0
+          },
+          {
+            "date": "2026-09-29",
+            "count": 0
+          },
+          {
+            "date": "2026-09-30",
+            "count": 0
+          },
+          {
+            "date": "2026-10-01",
+            "count": 0
+          },
+          {
+            "date": "2026-10-02",
+            "count": 0
+          },
+          {
+            "date": "2026-10-03",
+            "count": 0
+          },
+          {
+            "date": "2026-10-04",
+            "count": 0
+          },
+          {
+            "date": "2026-10-05",
+            "count": 0
+          },
+          {
+            "date": "2026-10-06",
+            "count": 0
+          },
+          {
+            "date": "2026-10-07",
+            "count": 0
+          },
+          {
+            "date": "2026-10-08",
+            "count": 0
+          },
+          {
+            "date": "2026-10-09",
+            "count": 0
+          },
+          {
+            "date": "2026-10-10",
+            "count": 0
+          },
+          {
+            "date": "2026-10-11",
+            "count": 0
+          },
+          {
+            "date": "2026-10-12",
+            "count": 0
+          },
+          {
+            "date": "2026-10-13",
+            "count": 0
+          },
+          {
+            "date": "2026-10-14",
+            "count": 0
+          },
+          {
+            "date": "2026-10-15",
+            "count": 0
+          },
+          {
+            "date": "2026-10-16",
+            "count": 0
+          },
+          {
+            "date": "2026-10-17",
+            "count": 0
+          },
+          {
+            "date": "2026-10-18",
+            "count": 0
+          },
+          {
+            "date": "2026-10-19",
+            "count": 0
+          },
+          {
+            "date": "2026-10-20",
+            "count": 0
+          },
+          {
+            "date": "2026-10-21",
+            "count": 0
+          }
+        ],
+        "totalCommits": 0,
+        "scope": "Commits on default branches of tracked public repositories; all contributors."
+      }
+    },
     "television": {
       "status": "fresh",
-      "lastAttemptAt": "2026-10-21T21:41:59.438Z",
-      "lastSuccessAt": "2026-10-21T21:41:59.438Z",
+      "lastAttemptAt": "2026-10-22T04:43:10.104Z",
+      "lastSuccessAt": "2026-10-22T04:43:10.104Z",
       "error": null,
       "data": {
         "episodes": [
