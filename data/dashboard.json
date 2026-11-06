@@ -1,28 +1,532 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T06:42:27.877Z",
+  "generatedAt": "2026-11-06T19:23:18.888Z",
   "timezone": "America/Chicago",
   "displayName": "Austin",
   "owner": "AustinPoulson",
   "location": "Plymouth, Minnesota",
   "sources": {
+    "horror": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-11-06T19:23:18.888Z",
+      "lastSuccessAt": "2026-11-06T19:23:18.888Z",
+      "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": "https://bloody-disgusting.com/?p=3975009",
+            "title": "‘They Know’: Bill Hader Names ‘Cure’ and ‘Serpent’s Path’ as Influences on Horror Directing Debut",
+            "url": "https://bloody-disgusting.com/movie/3975009/they-know-bill-hader-movie-influences-cure-rosemarys-baby/",
+            "publishedAt": "2026-11-06T18:31:40.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3975004",
+            "title": "‘Can I Come In?’: Brenton Thwaites Faces a Nightmare When His Missing Wife Returns Home",
+            "url": "https://bloody-disgusting.com/movie/3975004/can-i-come-in-brenton-thwaites-faces-a-nightmare-when-his-missing-wife-returns-home/",
+            "publishedAt": "2026-11-06T17:42:59.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3974989",
+            "title": "‘The End of Oak Street’ Brings Dinosaur Chaos Home To HBO Max This Friday the 13th",
+            "url": "https://bloody-disgusting.com/home-video/3974989/the-end-of-oak-street-brings-dinosaur-chaos-home-to-hbo-max-this-friday-the-13th/",
+            "publishedAt": "2026-11-06T17:16:17.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3974977",
+            "title": "New ‘Clayface’ BTS Images Highlight Grotesque Gore Effects on the Batman Spin-Off",
+            "url": "https://bloody-disgusting.com/movie/3974977/clayface-movie-special-effects-behind-the-scenes-tom-rhys-harries/",
+            "publishedAt": "2026-11-06T17:10:07.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3974968",
+            "title": "Exclusive ‘Spirit Tasting’ Trailer Rings in the New Year With a Nightmare",
+            "url": "https://bloody-disgusting.com/movie/3974968/spirit-tasting-movie-trailer/",
+            "publishedAt": "2026-11-06T17:00:32.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3974668",
+            "title": "5 Mind-Bending Horror Movies To Watch After Reading ‘There Is No Antimemetics Division’",
+            "url": "https://bloody-disgusting.com/sponsored/3974668/5-mind-bending-horror-movies-to-watch-after-reading-there-is-no-antimemetics-division/",
+            "publishedAt": "2026-11-06T17:00:17.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3974970",
+            "title": "‘Dark Christmas’ Trailer – A Killer Santa Slaughters Influencers in This Finnish Slasher Movie",
+            "url": "https://bloody-disgusting.com/movie/3974970/dark-christmas-trailer-a-killer-santa-spreads-holiday-fear-in-this-finnish-slasher-movie/",
+            "publishedAt": "2026-11-06T16:53:15.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3974934",
+            "title": "‘Godzilla Minus Zero’ Review: Takashi Yamazaki Delivers A Bigger, Louder, More Somber Kaiju Spectacle",
+            "url": "https://bloody-disgusting.com/reviews/3974934/godzilla-minus-zero-review-takashi-yamazaki-delivers-a-bigger-louder-more-somber-kaiju-spectacle/",
+            "publishedAt": "2026-11-06T15:50:32.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3974958",
+            "title": "Letitia Wright Starring in Evil Child Horror Movie ‘In Her Shadow’",
+            "url": "https://bloody-disgusting.com/movie/3974958/letitia-wright-starring-in-evil-child-horror-movie-in-her-shadow/",
+            "publishedAt": "2026-11-06T15:42:27.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3974952",
+            "title": "‘Feed’ – Rosamund Pike Starring in Body Horror Movie Inspired by ‘Hatching’",
+            "url": "https://bloody-disgusting.com/movie/3974952/feed-rosamund-pike-starring-in-body-horror-movie-inspired-by-hatching/",
+            "publishedAt": "2026-11-06T14:58:21.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          }
+        ],
+        "source": "Bloody Disgusting"
+      }
+    },
+    "news": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-11-06T19:23:18.888Z",
+      "lastSuccessAt": "2026-11-06T19:23:18.888Z",
+      "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": 50394569,
+            "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+            "url": "https://github.com/anomalyco/rune",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50394569",
+            "publishedAt": "2026-11-06T16:31:32.000Z",
+            "score": 84,
+            "comments": 63,
+            "topics": [
+              "Web & tools",
+              "Graphics",
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50393235,
+            "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+            "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50393235",
+            "publishedAt": "2026-11-06T15:07:47.000Z",
+            "score": 17,
+            "comments": 3,
+            "topics": [
+              "AI & agents",
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50385272,
+            "title": "Claude Code sends your email address to websites",
+            "url": "https://github.com/anthropics/claude-code/issues/107757",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50385272",
+            "publishedAt": "2026-11-05T22:17:15.000Z",
+            "score": 1518,
+            "comments": 478,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50385870,
+            "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+            "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50385870",
+            "publishedAt": "2026-11-05T23:09:57.000Z",
+            "score": 480,
+            "comments": 218,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50388122,
+            "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+            "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50388122",
+            "publishedAt": "2026-11-06T04:17:49.000Z",
+            "score": 280,
+            "comments": 90,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50381687,
+            "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+            "url": "https://github.com/rivet-dev/rivet",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50381687",
+            "publishedAt": "2026-11-05T17:17:42.000Z",
+            "score": 117,
+            "comments": 58,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50392499,
+            "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+            "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50392499",
+            "publishedAt": "2026-11-06T14:13:09.000Z",
+            "score": 111,
+            "comments": 52,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50394855,
+            "title": "First steps in bare-metal programming using UEFI",
+            "url": "https://kevinboone.me/efitest_index.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50394855",
+            "publishedAt": "2026-11-06T16:50:29.000Z",
+            "score": 96,
+            "comments": 7,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50389990,
+            "title": "AI for scientific discovery: How researchers use Claude",
+            "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50389990",
+            "publishedAt": "2026-11-06T09:13:30.000Z",
+            "score": 76,
+            "comments": 31,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50394906,
+            "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50394906",
+            "publishedAt": "2026-11-06T16:54:36.000Z",
+            "score": 61,
+            "comments": 153,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50395933,
+            "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+            "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50395933",
+            "publishedAt": "2026-11-06T18:04:06.000Z",
+            "score": 41,
+            "comments": 8,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50395866,
+            "title": "Perplexity launches AI agents for work",
+            "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50395866",
+            "publishedAt": "2026-11-06T17:59:41.000Z",
+            "score": 29,
+            "comments": 24,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50394116,
+            "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+            "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50394116",
+            "publishedAt": "2026-11-06T16:04:58.000Z",
+            "score": 14,
+            "comments": 0,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50395877,
+            "title": "An AI Rant",
+            "url": "https://carlhandellen.substack.com/p/an-ai-rant",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50395877",
+            "publishedAt": "2026-11-06T18:00:30.000Z",
+            "score": 10,
+            "comments": 5,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50394991,
+            "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
+            "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50394991",
+            "publishedAt": "2026-11-06T17:00:23.000Z",
+            "score": 9,
+            "comments": 0,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50394837,
+            "title": "GPU-Accelerated Weight Teleportation",
+            "url": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50394837",
+            "publishedAt": "2026-11-06T16:49:00.000Z",
+            "score": 7,
+            "comments": 1,
+            "topics": [
+              "Graphics"
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "name": "AI & agents",
+            "count": 13
+          },
+          {
+            "name": "Web & tools",
+            "count": 2
+          },
+          {
+            "name": "Graphics",
+            "count": 2
+          },
+          {
+            "name": "Systems & privacy",
+            "count": 3
+          }
+        ],
+        "sampledCount": 59,
+        "matchedCount": 17,
+        "source": "Hacker News"
+      }
+    },
+    "github": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-11-06T19:23:18.888Z",
+      "lastSuccessAt": "2026-11-06T19:23:18.888Z",
+      "error": null,
+      "data": {
+        "owner": "AustinPoulson",
+        "repositories": [
+          {
+            "name": "abyss",
+            "url": "https://github.com/AustinPoulson/abyss",
+            "description": "",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2026-09-16T16:13:04Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "HomePage",
+            "url": "https://github.com/AustinPoulson/HomePage",
+            "description": "Custom home page for my browser",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2025-08-04T22:02:04Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "devScripts",
+            "url": "https://github.com/AustinPoulson/devScripts",
+            "description": "Some scripts to make dev work easier",
+            "language": "Batchfile",
+            "stars": 0,
+            "pushedAt": "2024-03-24T02:41:31Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "RataTaskr",
+            "url": "https://github.com/AustinPoulson/RataTaskr",
+            "description": "Library of tools to aggregate data",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2024-12-03T23:30:50Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          }
+        ],
+        "activity": [
+          {
+            "date": "2026-10-10",
+            "count": 0
+          },
+          {
+            "date": "2026-10-11",
+            "count": 0
+          },
+          {
+            "date": "2026-10-12",
+            "count": 0
+          },
+          {
+            "date": "2026-10-13",
+            "count": 0
+          },
+          {
+            "date": "2026-10-14",
+            "count": 0
+          },
+          {
+            "date": "2026-10-15",
+            "count": 0
+          },
+          {
+            "date": "2026-10-16",
+            "count": 0
+          },
+          {
+            "date": "2026-10-17",
+            "count": 0
+          },
+          {
+            "date": "2026-10-18",
+            "count": 0
+          },
+          {
+            "date": "2026-10-19",
+            "count": 0
+          },
+          {
+            "date": "2026-10-20",
+            "count": 0
+          },
+          {
+            "date": "2026-10-21",
+            "count": 0
+          },
+          {
+            "date": "2026-10-22",
+            "count": 0
+          },
+          {
+            "date": "2026-10-23",
+            "count": 0
+          },
+          {
+            "date": "2026-10-24",
+            "count": 0
+          },
+          {
+            "date": "2026-10-25",
+            "count": 0
+          },
+          {
+            "date": "2026-10-26",
+            "count": 0
+          },
+          {
+            "date": "2026-10-27",
+            "count": 0
+          },
+          {
+            "date": "2026-10-28",
+            "count": 0
+          },
+          {
+            "date": "2026-10-29",
+            "count": 0
+          },
+          {
+            "date": "2026-10-30",
+            "count": 0
+          },
+          {
+            "date": "2026-10-31",
+            "count": 0
+          },
+          {
+            "date": "2026-11-01",
+            "count": 0
+          },
+          {
+            "date": "2026-11-02",
+            "count": 0
+          },
+          {
+            "date": "2026-11-03",
+            "count": 0
+          },
+          {
+            "date": "2026-11-04",
+            "count": 0
+          },
+          {
+            "date": "2026-11-05",
+            "count": 0
+          },
+          {
+            "date": "2026-11-06",
+            "count": 0
+          }
+        ],
+        "totalCommits": 0,
+        "scope": "Commits on default branches of tracked public repositories; all contributors."
+      }
+    },
     "weather": {
       "status": "fresh",
-      "lastAttemptAt": "2026-11-06T06:42:27.877Z",
-      "lastSuccessAt": "2026-11-06T06:42:27.877Z",
+      "lastAttemptAt": "2026-11-06T19:23:18.888Z",
+      "lastSuccessAt": "2026-11-06T19:23:18.888Z",
       "error": null,
       "data": {
         "location": "Plymouth, Minnesota",
         "timezone": "America/Chicago",
         "current": {
-          "time": "2026-11-06T00:30",
+          "time": "2026-11-06T13:15",
           "interval": 900,
-          "temperature_2m": 35.3,
-          "apparent_temperature": 29.5,
-          "relative_humidity_2m": 82,
-          "weather_code": 1,
-          "wind_speed_10m": 4,
-          "is_day": 0
+          "temperature_2m": 43.5,
+          "apparent_temperature": 38.8,
+          "relative_humidity_2m": 64,
+          "weather_code": 0,
+          "wind_speed_10m": 2.2,
+          "is_day": 1
         },
         "units": {
           "time": "iso8601",
@@ -50,35 +554,35 @@
             3,
             3,
             3,
-            3,
-            3
+            73,
+            51
           ],
           "temperature_2m_max": [
-            41.4,
-            51.8,
-            55.8,
-            59.6,
-            52.6,
-            48,
-            40.4
+            43.9,
+            41.5,
+            55,
+            57.5,
+            53.5,
+            42.9,
+            39.7
           ],
           "temperature_2m_min": [
-            31.3,
-            36.1,
-            44.7,
-            47.7,
-            43.1,
-            36.5,
-            33.6
+            29.3,
+            35.4,
+            38.9,
+            46.8,
+            39.7,
+            35.5,
+            32.9
           ],
           "precipitation_probability_max": [
             0,
+            1,
             0,
             0,
             0,
-            0,
-            4,
-            1
+            2,
+            2
           ],
           "sunrise": [
             "2026-11-06T06:59",
@@ -271,174 +775,174 @@
             "2026-11-12T23:00"
           ],
           "temperature_2m": [
-            36.2,
-            34.4,
-            33.1,
-            32.2,
+            35.7,
+            33.5,
             31.7,
-            31.6,
-            31.4,
-            31.3,
-            32.2,
-            35.1,
-            37.9,
-            39.5,
-            40.4,
-            40.8,
-            41.4,
-            41.3,
-            40.8,
-            39.2,
-            39.4,
-            38.7,
-            38.8,
-            39,
-            38,
-            37.7,
-            37.4,
+            30.5,
+            30.5,
+            30.6,
+            29.9,
+            29.3,
+            30.1,
+            34.4,
+            39.3,
+            42.2,
+            42.5,
+            43.3,
+            43.9,
+            43.7,
+            42.7,
+            40.2,
+            38.1,
             37.1,
-            37.1,
-            37.1,
-            36.8,
-            36.5,
+            36,
+            35.3,
+            34.8,
+            34.3,
+            35.7,
             36.2,
-            36.1,
-            36.3,
-            37,
+            37.2,
+            36.5,
+            35.6,
+            35.4,
+            37.2,
+            36.4,
+            36.9,
             37.5,
+            37.6,
+            37.2,
+            37.7,
             38.3,
+            39.1,
+            40,
+            40.5,
+            39.8,
+            40.4,
+            40.4,
+            40.4,
+            40.9,
+            41.5,
+            40.5,
+            40.5,
+            39.8,
+            39.3,
             38.9,
             40.2,
-            40.9,
             41.6,
-            44.8,
-            47.1,
-            49,
-            51.1,
-            50.6,
-            50.8,
-            50.4,
-            50.9,
+            42.7,
+            44.1,
+            44.6,
+            46.9,
             49.7,
-            48.9,
+            51.7,
+            53.3,
+            54.4,
+            54.9,
+            54.8,
+            53.7,
+            51.1,
+            49.5,
+            48.2,
+            47.5,
+            47,
+            47.2,
+            47.3,
+            47.4,
+            47.6,
+            47.6,
             48,
+            47.9,
+            48.5,
+            48.9,
+            49,
+            49.6,
+            51,
+            52.5,
+            54.2,
+            56,
+            57,
+            57.4,
+            57.4,
+            57.2,
+            55.3,
+            53.4,
+            51.6,
+            50.5,
+            49.7,
+            48.4,
             47.3,
             46.8,
             46,
-            45.5,
-            44.8,
-            44.9,
-            47.2,
-            49.9,
-            52.2,
-            53.8,
-            55.1,
-            55.7,
-            55.6,
-            54.4,
-            51.7,
-            50.2,
-            49.3,
-            48.6,
-            48.1,
-            48.2,
-            48.3,
-            48,
-            47.7,
-            47.7,
-            48,
-            48.5,
-            49,
-            49.3,
-            49.5,
-            49.9,
-            51.6,
-            53.6,
-            55.7,
-            57.5,
-            59,
-            59.6,
-            59.3,
-            58.1,
-            56.1,
-            55.4,
-            53.5,
-            52.1,
-            50.9,
-            49.6,
-            48.9,
-            48.1,
-            47.1,
-            46.3,
-            45.7,
-            45.2,
-            44.6,
-            43.8,
-            43.1,
-            43.6,
-            45.5,
-            47.8,
-            50,
-            51.8,
-            52.5,
-            52.6,
-            52.4,
-            51.6,
-            50.5,
-            50,
-            49.4,
-            49.1,
-            48.7,
-            48.4,
-            48.2,
-            48,
-            47.5,
-            47.1,
-            46.3,
-            45,
-            43.5,
-            42.3,
-            41.6,
-            41.1,
-            41.3,
-            42.4,
-            44.1,
             45.4,
-            45.9,
-            46.1,
+            44.7,
+            44.3,
+            44.1,
+            43.5,
+            42.8,
+            43.2,
+            45.1,
+            47.8,
+            50.8,
+            52.3,
+            52.9,
+            53.5,
+            52.7,
+            51,
+            49,
+            47.7,
+            46.5,
             45.6,
             44.2,
-            42.1,
-            40.6,
-            40.2,
-            40.3,
-            40.1,
-            39.2,
-            37.8,
-            36.5,
-            35.6,
-            34.9,
-            34.3,
-            33.8,
-            33.7,
-            33.6,
-            33.6,
-            33.8,
-            34.5,
-            35.9,
-            37.7,
-            39.2,
-            40,
-            40.3,
-            40.3,
+            42.4,
+            40.9,
             39.7,
-            38.6,
-            37.7,
+            38.8,
+            37.9,
             37.1,
             36.5,
-            36,
+            35.9,
             35.6,
-            35.3
+            35.6,
+            36,
+            36.8,
+            38.3,
+            40.1,
+            41.6,
+            42.4,
+            42.8,
+            42.9,
+            42.7,
+            41.9,
+            41.1,
+            40.1,
+            38.9,
+            37.9,
+            37.4,
+            37.1,
+            37,
+            37.1,
+            37.4,
+            37.4,
+            37,
+            36.5,
+            36,
+            35.4,
+            34.7,
+            34.7,
+            36.2,
+            38.3,
+            39.6,
+            39.6,
+            39,
+            38.3,
+            37.8,
+            37.3,
+            36.6,
+            35.9,
+            35,
+            34.3,
+            33.8,
+            33.3
           ],
           "precipitation_probability": [
             0,
@@ -483,103 +987,8 @@
             0,
             0,
             0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
             1,
             1,
-            1,
-            1,
-            1,
-            1,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
-            4,
             0,
             0,
             0,
@@ -592,26 +1001,127 @@
             0,
             0,
             0,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
           ],
           "weather_code": [
-            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0,
             0,
@@ -624,19 +1134,9 @@
             0,
             0,
             1,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
-            3,
+            0,
+            0,
+            0,
             3,
             3,
             3,
@@ -644,7 +1144,14 @@
             3,
             3,
             45,
+            45,
             3,
+            45,
+            3,
+            3,
+            3,
+            45,
+            45,
             45,
             3,
             3,
@@ -652,26 +1159,26 @@
             3,
             3,
             3,
+            45,
+            45,
+            1,
+            2,
+            0,
+            3,
+            3,
+            0,
+            0,
+            0,
             3,
             3,
             3,
-            3,
-            3,
-            3,
-            3,
+            0,
             0,
             0,
             0,
             0,
             0,
             1,
-            2,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0,
             0,
             0,
             0,
@@ -679,8 +1186,6 @@
             0,
             0,
             3,
-            0,
-            1,
             3,
             3,
             3,
@@ -699,27 +1204,18 @@
             3,
             3,
             3,
-            3,
-            3,
-            3,
-            2,
-            0,
-            3,
-            0,
             3,
             0,
             0,
-            1,
             0,
             0,
             0,
-            2,
-            2,
-            3,
-            3,
-            3,
-            3,
-            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             3,
             3,
             3,
@@ -738,11 +1234,40 @@
             3,
             3,
             2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
             2,
-            1,
-            1,
-            1,
-            1,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            51,
+            51,
+            51,
+            73,
+            73,
+            73,
+            51,
+            51,
+            51,
+            51,
+            51,
+            51,
+            51,
+            51,
+            51,
+            3,
+            2,
             1,
             1,
             1,
@@ -752,27 +1277,6 @@
             3,
             3,
             3,
-            3,
-            2,
-            1,
-            0,
-            0,
-            0,
-            0,
-            1,
-            2,
-            3,
-            2,
-            1,
-            0,
-            0,
-            1,
-            1,
-            1,
-            1,
-            1,
-            2,
-            2,
             3,
             3,
             3,
@@ -783,514 +1287,10 @@
         }
       }
     },
-    "horror": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-06T06:42:27.877Z",
-      "lastSuccessAt": "2026-11-06T06:42:27.877Z",
-      "error": null,
-      "data": {
-        "stories": [
-          {
-            "id": "https://bloody-disgusting.com/?p=3974710",
-            "title": "Original ‘Terrifier’ Star Jenna Kanell Directing Sci-fi Thriller ‘De Novo’",
-            "url": "https://bloody-disgusting.com/movie/3974710/original-terrifier-star-jenna-kanell-directing-sci-fi-thriller-de-novo/",
-            "publishedAt": "2026-11-04T20:56:57.000Z",
-            "topics": [
-              "Tech & identity",
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3974611",
-            "title": "‘The Institute’ Season 2 Review: Stephen King Adaptation Evolves Into Morally Complex Sci-Fi Thriller",
-            "url": "https://bloody-disgusting.com/reviews/3974611/the-institute-season-2-review/",
-            "publishedAt": "2026-11-04T17:24:53.000Z",
-            "topics": [
-              "Tech & identity",
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3974910",
-            "title": "‘John Wick’ Animated Prequel With Keanu Reeves Officially Moving Forward",
-            "url": "https://bloody-disgusting.com/movie/3974910/john-wick-keanu-reeves-return-animated-prequel/",
-            "publishedAt": "2026-11-05T23:40:31.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3974906",
-            "title": "‘Beetlejuice 3’: Sequel Writers Doubt Third Movie Will Ever Happen After Catherine O’Hara’s Passing",
-            "url": "https://bloody-disgusting.com/movie/3974906/beetlejuice-3-plans-chances-catherine-o-hara-writers/",
-            "publishedAt": "2026-11-05T23:25:00.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3974899",
-            "title": "Tim Robbins And Giancarlo Esposito Join Wyatt Russell’s Monsterverse Series",
-            "url": "https://bloody-disgusting.com/tv/3974899/tim-robbins-and-giancarlo-esposito-join-wyatt-russells-monsterverse-series/",
-            "publishedAt": "2026-11-05T21:24:41.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3974896",
-            "title": "‘Hyena’: ‘Sabrina’s Kiernan Shipka Joins New Thriller Executive Produced by Late David Lynch",
-            "url": "https://bloody-disgusting.com/movie/3974896/hyena-movie-david-lynch-kiernan-shipka/",
-            "publishedAt": "2026-11-05T21:22:12.000Z",
-            "topics": [
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3974884",
-            "title": "‘Obsession’s Curry Barker Wants to Make a “F-cked Up” R-Rated Version of ‘Indiana Jones’",
-            "url": "https://bloody-disgusting.com/movie/3974884/indiana-jones-r-rated-curry-barker-obsession/",
-            "publishedAt": "2026-11-05T20:36:14.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3974877",
-            "title": "‘The Crow’: Bill Skarsgård Shares the Career Lesson He Learned From Making the Reboot",
-            "url": "https://bloody-disgusting.com/movie/3974877/the-crow-reboot-bill-skarsgard-reaction-response/",
-            "publishedAt": "2026-11-05T19:48:30.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3974874",
-            "title": "Paul Bettany To Star Opposite Steven Yeun In Netflix’s ‘Pagans’",
-            "url": "https://bloody-disgusting.com/tv/3974874/paul-bettany-to-star-opposite-steven-yeun-in-netflixs-pagans/",
-            "publishedAt": "2026-11-05T19:26:09.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3974872",
-            "title": "First Look at ‘American Horror Story’ and ‘The Pitt’ Stars in Supernatural Thriller ‘Portrait’",
-            "url": "https://bloody-disgusting.com/movie/3974872/portrait-movie-finn-wittrock-supriya-ganesh/",
-            "publishedAt": "2026-11-05T19:01:26.000Z",
-            "topics": [
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
-          }
-        ],
-        "source": "Bloody Disgusting"
-      }
-    },
-    "news": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-06T06:42:27.877Z",
-      "lastSuccessAt": "2026-11-06T06:42:27.877Z",
-      "error": null,
-      "data": {
-        "stories": [
-          {
-            "id": 50375354,
-            "title": "Lemmings CSS Animation",
-            "url": "https://markblah.github.io/lemmings/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50375354",
-            "publishedAt": "2026-11-05T04:54:10.000Z",
-            "score": 399,
-            "comments": 77,
-            "topics": [
-              "Web & tools",
-              "Graphics"
-            ]
-          },
-          {
-            "id": 50364336,
-            "title": "AI is forcing us to pay off 40 years of technical debt",
-            "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50364336",
-            "publishedAt": "2026-11-04T11:52:17.000Z",
-            "score": 1270,
-            "comments": 743,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50385272,
-            "title": "Claude Code sends your email address to websites",
-            "url": "https://github.com/anthropics/claude-code/issues/107757",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50385272",
-            "publishedAt": "2026-11-05T22:17:15.000Z",
-            "score": 871,
-            "comments": 287,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50366999,
-            "title": "Kimi K3.1 Pro model weights are out",
-            "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50366999",
-            "publishedAt": "2026-11-04T15:30:30.000Z",
-            "score": 625,
-            "comments": 186,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50376313,
-            "title": "GPT-6 Astra covertly underperforms on safety research",
-            "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50376313",
-            "publishedAt": "2026-11-05T07:44:30.000Z",
-            "score": 316,
-            "comments": 175,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50385870,
-            "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-            "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50385870",
-            "publishedAt": "2026-11-05T23:09:57.000Z",
-            "score": 253,
-            "comments": 112,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50383163,
-            "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-            "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50383163",
-            "publishedAt": "2026-11-05T19:16:34.000Z",
-            "score": 199,
-            "comments": 48,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50368208,
-            "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-            "url": "https://www.linum.ai/field-notes/pjit-21k",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50368208",
-            "publishedAt": "2026-11-04T16:45:11.000Z",
-            "score": 198,
-            "comments": 17,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50368804,
-            "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-            "url": "https://news.ycombinator.com/item?id=50368804",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50368804",
-            "publishedAt": "2026-11-04T17:31:53.000Z",
-            "score": 104,
-            "comments": 35,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50381687,
-            "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-            "url": "https://github.com/rivet-dev/rivet",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50381687",
-            "publishedAt": "2026-11-05T17:17:42.000Z",
-            "score": 89,
-            "comments": 48,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50380658,
-            "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-            "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50380658",
-            "publishedAt": "2026-11-05T15:51:57.000Z",
-            "score": 84,
-            "comments": 34,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50380704,
-            "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-            "url": "https://github.com/AGGIB/Stroq",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50380704",
-            "publishedAt": "2026-11-05T15:54:41.000Z",
-            "score": 80,
-            "comments": 29,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50387546,
-            "title": "Closed AI models dominate the price-performance frontier",
-            "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50387546",
-            "publishedAt": "2026-11-06T02:49:56.000Z",
-            "score": 51,
-            "comments": 41,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50388263,
-            "title": "How accurately did science fiction stories predict AI?",
-            "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50388263",
-            "publishedAt": "2026-11-06T04:36:22.000Z",
-            "score": 28,
-            "comments": 31,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50383902,
-            "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-            "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50383902",
-            "publishedAt": "2026-11-05T20:16:19.000Z",
-            "score": 26,
-            "comments": 5,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50388122,
-            "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-            "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50388122",
-            "publishedAt": "2026-11-06T04:17:49.000Z",
-            "score": 19,
-            "comments": 2,
-            "topics": [
-              "Systems & privacy"
-            ]
-          }
-        ],
-        "topics": [
-          {
-            "name": "AI & agents",
-            "count": 14
-          },
-          {
-            "name": "Web & tools",
-            "count": 1
-          },
-          {
-            "name": "Graphics",
-            "count": 1
-          },
-          {
-            "name": "Systems & privacy",
-            "count": 1
-          }
-        ],
-        "sampledCount": 59,
-        "matchedCount": 16,
-        "source": "Hacker News"
-      }
-    },
-    "github": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-06T06:42:27.877Z",
-      "lastSuccessAt": "2026-11-06T06:42:27.877Z",
-      "error": null,
-      "data": {
-        "owner": "AustinPoulson",
-        "repositories": [
-          {
-            "name": "abyss",
-            "url": "https://github.com/AustinPoulson/abyss",
-            "description": "",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2026-09-16T16:13:04Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "HomePage",
-            "url": "https://github.com/AustinPoulson/HomePage",
-            "description": "Custom home page for my browser",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2025-08-04T22:02:04Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "devScripts",
-            "url": "https://github.com/AustinPoulson/devScripts",
-            "description": "Some scripts to make dev work easier",
-            "language": "Batchfile",
-            "stars": 0,
-            "pushedAt": "2024-03-24T02:41:31Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "RataTaskr",
-            "url": "https://github.com/AustinPoulson/RataTaskr",
-            "description": "Library of tools to aggregate data",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2024-12-03T23:30:50Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          }
-        ],
-        "activity": [
-          {
-            "date": "2026-10-10",
-            "count": 0
-          },
-          {
-            "date": "2026-10-11",
-            "count": 0
-          },
-          {
-            "date": "2026-10-12",
-            "count": 0
-          },
-          {
-            "date": "2026-10-13",
-            "count": 0
-          },
-          {
-            "date": "2026-10-14",
-            "count": 0
-          },
-          {
-            "date": "2026-10-15",
-            "count": 0
-          },
-          {
-            "date": "2026-10-16",
-            "count": 0
-          },
-          {
-            "date": "2026-10-17",
-            "count": 0
-          },
-          {
-            "date": "2026-10-18",
-            "count": 0
-          },
-          {
-            "date": "2026-10-19",
-            "count": 0
-          },
-          {
-            "date": "2026-10-20",
-            "count": 0
-          },
-          {
-            "date": "2026-10-21",
-            "count": 0
-          },
-          {
-            "date": "2026-10-22",
-            "count": 0
-          },
-          {
-            "date": "2026-10-23",
-            "count": 0
-          },
-          {
-            "date": "2026-10-24",
-            "count": 0
-          },
-          {
-            "date": "2026-10-25",
-            "count": 0
-          },
-          {
-            "date": "2026-10-26",
-            "count": 0
-          },
-          {
-            "date": "2026-10-27",
-            "count": 0
-          },
-          {
-            "date": "2026-10-28",
-            "count": 0
-          },
-          {
-            "date": "2026-10-29",
-            "count": 0
-          },
-          {
-            "date": "2026-10-30",
-            "count": 0
-          },
-          {
-            "date": "2026-10-31",
-            "count": 0
-          },
-          {
-            "date": "2026-11-01",
-            "count": 0
-          },
-          {
-            "date": "2026-11-02",
-            "count": 0
-          },
-          {
-            "date": "2026-11-03",
-            "count": 0
-          },
-          {
-            "date": "2026-11-04",
-            "count": 0
-          },
-          {
-            "date": "2026-11-05",
-            "count": 0
-          },
-          {
-            "date": "2026-11-06",
-            "count": 0
-          }
-        ],
-        "totalCommits": 0,
-        "scope": "Commits on default branches of tracked public repositories; all contributors."
-      }
-    },
     "television": {
       "status": "fresh",
-      "lastAttemptAt": "2026-11-06T06:42:27.877Z",
-      "lastSuccessAt": "2026-11-06T06:42:27.877Z",
+      "lastAttemptAt": "2026-11-06T19:23:18.888Z",
+      "lastSuccessAt": "2026-11-06T19:23:18.888Z",
       "error": null,
       "data": {
         "episodes": [
@@ -1458,7 +1458,7 @@
           {
             "id": 3763349,
             "title": "Yaga",
-            "episode": "Dance With The Devil",
+            "episode": "Dance with the Devil",
             "season": 1,
             "number": 4,
             "date": "2026-11-06",
