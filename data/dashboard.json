@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T07:53:29.077Z",
+  "generatedAt": "2026-11-17T20:53:55.252Z",
   "timezone": "America/Chicago",
   "displayName": "Austin",
   "owner": "AustinPoulson",
@@ -8,11 +8,22 @@
   "sources": {
     "horror": {
       "status": "fresh",
-      "lastAttemptAt": "2026-11-17T07:53:29.077Z",
-      "lastSuccessAt": "2026-11-17T07:53:29.077Z",
+      "lastAttemptAt": "2026-11-17T20:53:55.252Z",
+      "lastSuccessAt": "2026-11-17T20:53:55.252Z",
       "error": null,
       "data": {
         "stories": [
+          {
+            "id": "https://bloody-disgusting.com/?p=3976035",
+            "title": "‘Lost’ Star Josh Holloway’s New Sci-Fi Thriller ‘One Second After’ Gets April 2027 Release Date",
+            "url": "https://bloody-disgusting.com/movie/3976035/one-second-after-release-date-josh-holloway/",
+            "publishedAt": "2026-11-17T19:22:33.000Z",
+            "topics": [
+              "Tech & identity",
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
           {
             "id": "https://bloody-disgusting.com/?p=3975730",
             "title": "‘The Caged’ Exclusive Trailer & Poster Previews Supernatural Horror Inspired By Historic Witch Prison",
@@ -36,71 +47,64 @@
             "source": "Bloody Disgusting"
           },
           {
-            "id": "https://bloody-disgusting.com/?p=3975628",
-            "title": "5 Underrated Sci-Fi Horror Movies Worth Discovering",
-            "url": "https://bloody-disgusting.com/editorials/3975628/5-underrated-sci-fi-horror-movies-worth-discovering/",
-            "publishedAt": "2026-11-12T21:59:51.000Z",
-            "topics": [
-              "Tech & identity",
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3975939",
-            "title": "‘Godzilla Minus Zero’, ‘The Cycle’, and ‘Buddy’ Are Major Highlights of 2026 (At Least to Us) [Halloweenies Podcast]",
-            "url": "https://bloody-disgusting.com/podcast-news/3975939/godzilla-minus-zero-halloweenies-podcast/",
-            "publishedAt": "2026-11-17T01:24:13.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3975935",
-            "title": "Zach Cregger Reveals His Pitch for an Unmade Livestreamed Found-Footage Movie",
-            "url": "https://bloody-disgusting.com/movie/3975935/zach-cregger-unmade-livestreamed-found-footage-movie/",
-            "publishedAt": "2026-11-17T00:38:15.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3975931",
-            "title": "‘The X-Files’ Reboot Star Confirms Series Is Still in the Writing Stages",
-            "url": "https://bloody-disgusting.com/news/3975931/the-x-files-reboot-himesh-patel-status-writing/",
-            "publishedAt": "2026-11-16T23:21:29.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3975894",
-            "title": "Bill Skarsgård Rules Out Playing Freddy Krueger: “I Feel Kind of Spent With Those Things”",
-            "url": "https://bloody-disgusting.com/movie/3975894/bill-skarsgard-on-freddy-krueger-and-villains/",
-            "publishedAt": "2026-11-16T20:15:31.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3975896",
-            "title": "‘Remain’ Official Trailer – Shyamalan’s Supernatural Romance Gets Terrifying at Night",
-            "url": "https://bloody-disgusting.com/movie/3975896/remain-final-trailer-m-night-shyamalans-supernatural-romance-gets-terrifying-at-night/",
-            "publishedAt": "2026-11-16T20:11:43.000Z",
+            "id": "https://bloody-disgusting.com/?p=3976038",
+            "title": "Supernatural Drama ‘Zhong Kui: Demon Slayer’ Adds ‘The Expanse’ Writer as Showrunner",
+            "url": "https://bloody-disgusting.com/news/3976038/zhong-kui-demon-slayer-supernatural-drama-the-expanse-writer-showrunner/",
+            "publishedAt": "2026-11-17T20:07:39.000Z",
             "topics": [
               "Horror"
             ],
             "source": "Bloody Disgusting"
           },
           {
-            "id": "https://bloody-disgusting.com/?p=3975892",
-            "title": "‘3 Body Problem’ Season 2 Gets January Premiere Date at Netflix",
-            "url": "https://bloody-disgusting.com/news/3975892/3-body-problem-season-2-premiere-date-netflix/",
-            "publishedAt": "2026-11-16T20:07:39.000Z",
+            "id": "https://bloody-disgusting.com/?p=3976022",
+            "title": "Curry Barker Debunks Wild ‘Obsession’ Theory That Nikki Is Possessed by Bear’s Cat",
+            "url": "https://bloody-disgusting.com/movie/3976022/obsession-cat-theory-nikki-curry-barker-reaction/",
+            "publishedAt": "2026-11-17T18:32:27.000Z",
             "topics": [],
             "source": "Bloody Disgusting"
           },
           {
-            "id": "https://bloody-disgusting.com/?p=3975887",
-            "title": "‘Godzilla Minus Zero’ Director Takashi Yamazaki’s ‘Grandgear’ Casts Corey Hawkins and More",
-            "url": "https://bloody-disgusting.com/movie/3975887/godzilla-minus-zero-director-takashi-yamazakis-grandgear-casts-corey-hawkins-and-more/",
-            "publishedAt": "2026-11-16T18:56:20.000Z",
+            "id": "https://bloody-disgusting.com/?p=3975997",
+            "title": "10 Thanksgiving Horror Movies to Watch Beyond ‘Thanksgiving’",
+            "url": "https://bloody-disgusting.com/editorials/3975997/thanksgiving-horror-films-to-watch/",
+            "publishedAt": "2026-11-17T17:39:39.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976011",
+            "title": "‘The X-Files’ Star David Duchovny Confirms Hulu Reboot Hasn’t “Figured Out” Mulder’s Return",
+            "url": "https://bloody-disgusting.com/news/3976011/the-x-files-david-duchovny-reboot-sequel-return-chris-carter/",
+            "publishedAt": "2026-11-17T17:37:14.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3975999",
+            "title": "‘Santaphobia’ Trailer – Found Footage Holiday Horror Movie Traps You in an Endless Christmas Loop",
+            "url": "https://bloody-disgusting.com/movie/3975999/santaphobia-trailer-found-footage-holiday-horror-movie-traps-you-in-an-endless-christmas-day-loop/",
+            "publishedAt": "2026-11-17T16:45:15.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3975978",
+            "title": "Macabre Spirits Joins Forces With Robert Eggers’ ‘Werwulf’ to Unleash Limited Edition Bottle of Brandy",
+            "url": "https://bloody-disgusting.com/the-further/3975978/macabre-spirits-joins-forces-with-robert-eggers-werwulf-to-unleash-limited-edition-bottle-of-brandy/",
+            "publishedAt": "2026-11-17T15:31:12.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3975974",
+            "title": "Earth Faces Extinction In Netflix’s ‘3 Body Problem’ Season 2 Teaser",
+            "url": "https://bloody-disgusting.com/tv/3975974/earth-faces-extinction-in-netflixs-3-body-problem-season-2-teaser/",
+            "publishedAt": "2026-11-17T15:27:08.000Z",
             "topics": [],
             "source": "Bloody Disgusting"
           }
@@ -108,11 +112,681 @@
         "source": "Bloody Disgusting"
       }
     },
-    "weather": {
+    "news": {
       "status": "fresh",
-      "lastAttemptAt": "2026-11-17T07:53:29.077Z",
-      "lastSuccessAt": "2026-11-17T07:53:29.077Z",
+      "lastAttemptAt": "2026-11-17T20:53:55.252Z",
+      "lastSuccessAt": "2026-11-17T20:53:55.252Z",
       "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": 50535230,
+            "title": "GPT‑6.2 Astra and Sol",
+            "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50535230",
+            "publishedAt": "2026-11-17T17:46:43.000Z",
+            "score": 769,
+            "comments": 476,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50532086,
+            "title": "We don't need more apps, we need better open source",
+            "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50532086",
+            "publishedAt": "2026-11-17T14:45:36.000Z",
+            "score": 330,
+            "comments": 216,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50532191,
+            "title": "What is the best harness for each model?",
+            "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50532191",
+            "publishedAt": "2026-11-17T14:53:43.000Z",
+            "score": 282,
+            "comments": 101,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50532849,
+            "title": "Highly classified US national security communications network goes down",
+            "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50532849",
+            "publishedAt": "2026-11-17T15:38:28.000Z",
+            "score": 274,
+            "comments": 260,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50529612,
+            "title": "How the Claude Code team thinks about verification",
+            "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50529612",
+            "publishedAt": "2026-11-17T10:20:40.000Z",
+            "score": 217,
+            "comments": 169,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50532385,
+            "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+            "url": "https://alloyhtml.com/example.html",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50532385",
+            "publishedAt": "2026-11-17T15:07:09.000Z",
+            "score": 150,
+            "comments": 24,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50496787,
+            "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+            "url": "https://github.com/ZigaoWang/zigzag",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50496787",
+            "publishedAt": "2026-11-14T13:17:10.000Z",
+            "score": 106,
+            "comments": 64,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50515291,
+            "title": "Elephant-Goldfish Model",
+            "url": "https://egm.dev/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50515291",
+            "publishedAt": "2026-11-16T08:23:28.000Z",
+            "score": 49,
+            "comments": 19,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50537290,
+            "title": "Web Browser Engineering (2021)",
+            "url": "https://browser.engineering/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50537290",
+            "publishedAt": "2026-11-17T20:01:35.000Z",
+            "score": 38,
+            "comments": 4,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50533270,
+            "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+            "url": "https://github.com/RunanywhereAI/trnrt",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50533270",
+            "publishedAt": "2026-11-17T16:01:04.000Z",
+            "score": 32,
+            "comments": 5,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50536468,
+            "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+            "url": "https://starsling.dev/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50536468",
+            "publishedAt": "2026-11-17T19:01:43.000Z",
+            "score": 27,
+            "comments": 12,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50536565,
+            "title": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC",
+            "url": "https://www.zerohedge.com/political/anthropic-paid-rubios-ex-chief-staffs-firm-740000-after-jensen-memo-it-lobbied-his-nsc",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50536565",
+            "publishedAt": "2026-11-17T19:08:45.000Z",
+            "score": 22,
+            "comments": 6,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50536438,
+            "title": "GPT-6.2 Astra scores 100% on ARC-AGI-3",
+            "url": "https://twitter.com/arcprize/status/2122751233442156678",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50536438",
+            "publishedAt": "2026-11-17T18:59:43.000Z",
+            "score": 20,
+            "comments": 7,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50535898,
+            "title": "Advancing computer-use agents for healthcare teams",
+            "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50535898",
+            "publishedAt": "2026-11-17T18:26:05.000Z",
+            "score": 18,
+            "comments": 13,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50535740,
+            "title": "Not Everything Needs an LLM",
+            "url": "https://newsletter.posthog.com/p/decision-models",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50535740",
+            "publishedAt": "2026-11-17T18:16:18.000Z",
+            "score": 12,
+            "comments": 1,
+            "topics": [
+              "AI & agents"
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "name": "AI & agents",
+            "count": 10
+          },
+          {
+            "name": "Web & tools",
+            "count": 3
+          },
+          {
+            "name": "Graphics",
+            "count": 0
+          },
+          {
+            "name": "Systems & privacy",
+            "count": 2
+          }
+        ],
+        "sampledCount": 59,
+        "matchedCount": 15,
+        "source": "Hacker News"
+      }
+    },
+    "github": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-11-17T20:53:55.252Z",
+      "lastSuccessAt": "2026-11-17T20:53:55.252Z",
+      "error": null,
+      "data": {
+        "owner": "AustinPoulson",
+        "repositories": [
+          {
+            "name": "abyss",
+            "url": "https://github.com/AustinPoulson/abyss",
+            "description": "",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2026-09-16T16:13:04Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "HomePage",
+            "url": "https://github.com/AustinPoulson/HomePage",
+            "description": "Custom home page for my browser",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2025-08-04T22:02:04Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "devScripts",
+            "url": "https://github.com/AustinPoulson/devScripts",
+            "description": "Some scripts to make dev work easier",
+            "language": "Batchfile",
+            "stars": 0,
+            "pushedAt": "2024-03-24T02:41:31Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "RataTaskr",
+            "url": "https://github.com/AustinPoulson/RataTaskr",
+            "description": "Library of tools to aggregate data",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2024-12-03T23:30:50Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          }
+        ],
+        "activity": [
+          {
+            "date": "2026-10-21",
+            "count": 0
+          },
+          {
+            "date": "2026-10-22",
+            "count": 0
+          },
+          {
+            "date": "2026-10-23",
+            "count": 0
+          },
+          {
+            "date": "2026-10-24",
+            "count": 0
+          },
+          {
+            "date": "2026-10-25",
+            "count": 0
+          },
+          {
+            "date": "2026-10-26",
+            "count": 0
+          },
+          {
+            "date": "2026-10-27",
+            "count": 0
+          },
+          {
+            "date": "2026-10-28",
+            "count": 0
+          },
+          {
+            "date": "2026-10-29",
+            "count": 0
+          },
+          {
+            "date": "2026-10-30",
+            "count": 0
+          },
+          {
+            "date": "2026-10-31",
+            "count": 0
+          },
+          {
+            "date": "2026-11-01",
+            "count": 0
+          },
+          {
+            "date": "2026-11-02",
+            "count": 0
+          },
+          {
+            "date": "2026-11-03",
+            "count": 0
+          },
+          {
+            "date": "2026-11-04",
+            "count": 0
+          },
+          {
+            "date": "2026-11-05",
+            "count": 0
+          },
+          {
+            "date": "2026-11-06",
+            "count": 0
+          },
+          {
+            "date": "2026-11-07",
+            "count": 0
+          },
+          {
+            "date": "2026-11-08",
+            "count": 0
+          },
+          {
+            "date": "2026-11-09",
+            "count": 0
+          },
+          {
+            "date": "2026-11-10",
+            "count": 0
+          },
+          {
+            "date": "2026-11-11",
+            "count": 0
+          },
+          {
+            "date": "2026-11-12",
+            "count": 0
+          },
+          {
+            "date": "2026-11-13",
+            "count": 0
+          },
+          {
+            "date": "2026-11-14",
+            "count": 0
+          },
+          {
+            "date": "2026-11-15",
+            "count": 0
+          },
+          {
+            "date": "2026-11-16",
+            "count": 0
+          },
+          {
+            "date": "2026-11-17",
+            "count": 0
+          }
+        ],
+        "totalCommits": 0,
+        "scope": "Commits on default branches of tracked public repositories; all contributors."
+      }
+    },
+    "television": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-11-17T20:53:55.252Z",
+      "lastSuccessAt": "2026-11-17T20:53:55.252Z",
+      "error": null,
+      "data": {
+        "episodes": [
+          {
+            "id": 3791856,
+            "title": "Sacrifice",
+            "episode": "Dancing with the Devil",
+            "season": 2,
+            "number": 9,
+            "date": "2026-11-18",
+            "airstamp": "2026-11-18T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3791856/sacrifice-2x09-dancing-with-the-devil",
+            "showUrl": "https://www.tvmaze.com/shows/50786/sacrifice",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Legal"
+            ],
+            "channel": "Paramount+",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3772252,
+            "title": "The Traitors",
+            "episode": "I'm Fighting Till the End",
+            "season": 5,
+            "number": 11,
+            "date": "2026-11-19",
+            "airstamp": "2026-11-20T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3772252/the-traitors-5x11-im-fighting-till-the-end",
+            "showUrl": "https://www.tvmaze.com/shows/58177/the-traitors",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Thriller"
+            ],
+            "channel": "NBC",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3772253,
+            "title": "The Traitors",
+            "episode": "Who Do You Truly Trust?",
+            "season": 5,
+            "number": 12,
+            "date": "2026-11-19",
+            "airstamp": "2026-11-20T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3772253/the-traitors-5x12-who-do-you-truly-trust",
+            "showUrl": "https://www.tvmaze.com/shows/58177/the-traitors",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Thriller"
+            ],
+            "channel": "NBC",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3784757,
+            "title": "War",
+            "episode": "Partners",
+            "season": 1,
+            "number": 8,
+            "date": "2026-11-19",
+            "airstamp": "2026-11-20T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3784757/war-1x08-partners",
+            "showUrl": "https://www.tvmaze.com/shows/86587/war",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Legal"
+            ],
+            "channel": "HBO",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3784257,
+            "title": "Mystery Science Theater 3000",
+            "episode": "Space Raiders",
+            "season": 14,
+            "number": 4,
+            "date": "2026-11-20",
+            "airstamp": "2026-11-21T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3784257/mystery-science-theater-3000-14x04-space-raiders",
+            "showUrl": "https://www.tvmaze.com/shows/19499/mystery-science-theater-3000",
+            "genres": [
+              "Comedy",
+              "Science-Fiction"
+            ],
+            "channel": "RiffTrax",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3665759,
+            "title": "Nocturne",
+            "episode": "Solitude",
+            "season": 1,
+            "number": 5,
+            "date": "2026-11-20",
+            "airstamp": "2026-11-20T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3665759/nocturne-1x05-solitude",
+            "showUrl": "https://www.tvmaze.com/shows/66811/nocturne",
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "channel": "Apple TV",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3763351,
+            "title": "Yaga",
+            "episode": "Mother Witch",
+            "season": 1,
+            "number": 6,
+            "date": "2026-11-20",
+            "airstamp": "2026-11-20T17:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3763351/yaga-1x06-mother-witch",
+            "showUrl": "https://www.tvmaze.com/shows/93263/yaga",
+            "genres": [
+              "Thriller",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Crave",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3706931,
+            "title": "Yellowjackets",
+            "episode": "Hivemind",
+            "season": 4,
+            "number": 1,
+            "date": "2026-11-20",
+            "airstamp": "2026-11-20T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3706931/yellowjackets-4x01-hivemind",
+            "showUrl": "https://www.tvmaze.com/shows/36672/yellowjackets",
+            "genres": [
+              "Drama",
+              "Horror",
+              "Supernatural"
+            ],
+            "channel": "Paramount+",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3795288,
+            "title": "Honey",
+            "episode": "Episode 3",
+            "season": 1,
+            "number": 3,
+            "date": "2026-11-21",
+            "airstamp": "2026-11-21T06:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3795288/honey-1x03-episode-3",
+            "showUrl": "https://www.tvmaze.com/shows/83585/honey",
+            "genres": [
+              "Romance",
+              "Thriller",
+              "Espionage"
+            ],
+            "channel": "BBC iPlayer",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3802958,
+            "title": "Svengoolie",
+            "episode": "Cujo",
+            "season": 32,
+            "number": 53,
+            "date": "2026-11-21",
+            "airstamp": "2026-11-22T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3802958/svengoolie-32x53-cujo",
+            "showUrl": "https://www.tvmaze.com/shows/22734/svengoolie",
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "channel": "Me-TV",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3793967,
+            "title": "The Institute",
+            "episode": "Double Cross",
+            "season": 2,
+            "number": 3,
+            "date": "2026-11-22",
+            "airstamp": "2026-11-23T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3793967/the-institute-2x03-double-cross",
+            "showUrl": "https://www.tvmaze.com/shows/77778/the-institute",
+            "genres": [
+              "Horror",
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "MGM+",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3804764,
+            "title": "Fatal Attraction",
+            "episode": "When Lies Collide",
+            "season": 17,
+            "number": 16,
+            "date": "2026-11-23",
+            "airstamp": "2026-11-24T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3804764/fatal-attraction-17x16-when-lies-collide",
+            "showUrl": "https://www.tvmaze.com/shows/4887/fatal-attraction",
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "channel": "TV One",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3804165,
+            "title": "The Terrors of Jordan Mendoza",
+            "episode": "Wow, I hope that doesn't happen to me",
+            "season": 1,
+            "number": 11,
+            "date": "2026-11-23",
+            "airstamp": "2026-11-24T05:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3804165/the-terrors-of-jordan-mendoza-1x11-wow-i-hope-that-doesnt-happen-to-me",
+            "showUrl": "https://www.tvmaze.com/shows/86450/the-terrors-of-jordan-mendoza",
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "channel": "Adult Swim",
+            "scope": "US broadcast"
+          }
+        ],
+        "days": [
+          {
+            "date": "2026-11-17",
+            "count": 0
+          },
+          {
+            "date": "2026-11-18",
+            "count": 1
+          },
+          {
+            "date": "2026-11-19",
+            "count": 3
+          },
+          {
+            "date": "2026-11-20",
+            "count": 4
+          },
+          {
+            "date": "2026-11-21",
+            "count": 2
+          },
+          {
+            "date": "2026-11-22",
+            "count": 1
+          },
+          {
+            "date": "2026-11-23",
+            "count": 2
+          }
+        ],
+        "genres": [
+          "Horror",
+          "Science-Fiction",
+          "Thriller"
+        ],
+        "languages": [
+          "English"
+        ],
+        "source": "TVmaze"
+      }
+    },
+    "weather": {
+      "status": "stale",
+      "lastAttemptAt": "2026-11-17T20:53:55.252Z",
+      "lastSuccessAt": "2026-11-17T07:53:29.077Z",
+      "error": "fetch failed",
       "data": {
         "location": "Plymouth, Minnesota",
         "timezone": "America/Chicago",
@@ -883,630 +1557,6 @@
             3
           ]
         }
-      }
-    },
-    "news": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-17T07:53:29.077Z",
-      "lastSuccessAt": "2026-11-17T07:53:29.077Z",
-      "error": null,
-      "data": {
-        "stories": [
-          {
-            "id": 50524736,
-            "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-            "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50524736",
-            "publishedAt": "2026-11-16T22:58:20.000Z",
-            "score": 527,
-            "comments": 367,
-            "topics": [
-              "AI & agents",
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50526264,
-            "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50526264",
-            "publishedAt": "2026-11-17T01:35:16.000Z",
-            "score": 43,
-            "comments": 14,
-            "topics": [
-              "AI & agents",
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50517321,
-            "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-            "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50517321",
-            "publishedAt": "2026-11-16T13:18:22.000Z",
-            "score": 301,
-            "comments": 205,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50522563,
-            "title": "Rust changed me as a developer",
-            "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50522563",
-            "publishedAt": "2026-11-16T20:16:50.000Z",
-            "score": 253,
-            "comments": 156,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50524225,
-            "title": "How to Break into Security, Ptacek Edition (2012)",
-            "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50524225",
-            "publishedAt": "2026-11-16T22:19:23.000Z",
-            "score": 101,
-            "comments": 24,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 50526152,
-            "title": "Running coding agents without handing them my credentials",
-            "url": "https://blog.antonio.cx/running-agents-with-lend",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50526152",
-            "publishedAt": "2026-11-17T01:18:56.000Z",
-            "score": 100,
-            "comments": 55,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50519153,
-            "title": "First phase of embedded assessments at OpenAI",
-            "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50519153",
-            "publishedAt": "2026-11-16T16:07:20.000Z",
-            "score": 49,
-            "comments": 17,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50507870,
-            "title": "New open source C4 Diagram tool",
-            "url": "https://www.youtube.com/watch?v=ZCAHP50Zly8",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50507870",
-            "publishedAt": "2026-11-15T15:55:08.000Z",
-            "score": 34,
-            "comments": 9,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 50523037,
-            "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
-            "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50523037",
-            "publishedAt": "2026-11-16T20:48:53.000Z",
-            "score": 22,
-            "comments": 7,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50526584,
-            "title": "Tokendoctor – See what your Claude Code use overpays",
-            "url": "https://github.com/localixai/tokendoctor",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50526584",
-            "publishedAt": "2026-11-17T02:19:50.000Z",
-            "score": 20,
-            "comments": 9,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50526967,
-            "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
-            "url": "https://github.com/yocontra/pulsar",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50526967",
-            "publishedAt": "2026-11-17T03:18:53.000Z",
-            "score": 10,
-            "comments": 0,
-            "topics": [
-              "AI & agents"
-            ]
-          }
-        ],
-        "topics": [
-          {
-            "name": "AI & agents",
-            "count": 7
-          },
-          {
-            "name": "Web & tools",
-            "count": 4
-          },
-          {
-            "name": "Graphics",
-            "count": 0
-          },
-          {
-            "name": "Systems & privacy",
-            "count": 2
-          }
-        ],
-        "sampledCount": 60,
-        "matchedCount": 11,
-        "source": "Hacker News"
-      }
-    },
-    "github": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-17T07:53:29.077Z",
-      "lastSuccessAt": "2026-11-17T07:53:29.077Z",
-      "error": null,
-      "data": {
-        "owner": "AustinPoulson",
-        "repositories": [
-          {
-            "name": "abyss",
-            "url": "https://github.com/AustinPoulson/abyss",
-            "description": "",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2026-09-16T16:13:04Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "HomePage",
-            "url": "https://github.com/AustinPoulson/HomePage",
-            "description": "Custom home page for my browser",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2025-08-04T22:02:04Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "devScripts",
-            "url": "https://github.com/AustinPoulson/devScripts",
-            "description": "Some scripts to make dev work easier",
-            "language": "Batchfile",
-            "stars": 0,
-            "pushedAt": "2024-03-24T02:41:31Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "RataTaskr",
-            "url": "https://github.com/AustinPoulson/RataTaskr",
-            "description": "Library of tools to aggregate data",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2024-12-03T23:30:50Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          }
-        ],
-        "activity": [
-          {
-            "date": "2026-10-21",
-            "count": 0
-          },
-          {
-            "date": "2026-10-22",
-            "count": 0
-          },
-          {
-            "date": "2026-10-23",
-            "count": 0
-          },
-          {
-            "date": "2026-10-24",
-            "count": 0
-          },
-          {
-            "date": "2026-10-25",
-            "count": 0
-          },
-          {
-            "date": "2026-10-26",
-            "count": 0
-          },
-          {
-            "date": "2026-10-27",
-            "count": 0
-          },
-          {
-            "date": "2026-10-28",
-            "count": 0
-          },
-          {
-            "date": "2026-10-29",
-            "count": 0
-          },
-          {
-            "date": "2026-10-30",
-            "count": 0
-          },
-          {
-            "date": "2026-10-31",
-            "count": 0
-          },
-          {
-            "date": "2026-11-01",
-            "count": 0
-          },
-          {
-            "date": "2026-11-02",
-            "count": 0
-          },
-          {
-            "date": "2026-11-03",
-            "count": 0
-          },
-          {
-            "date": "2026-11-04",
-            "count": 0
-          },
-          {
-            "date": "2026-11-05",
-            "count": 0
-          },
-          {
-            "date": "2026-11-06",
-            "count": 0
-          },
-          {
-            "date": "2026-11-07",
-            "count": 0
-          },
-          {
-            "date": "2026-11-08",
-            "count": 0
-          },
-          {
-            "date": "2026-11-09",
-            "count": 0
-          },
-          {
-            "date": "2026-11-10",
-            "count": 0
-          },
-          {
-            "date": "2026-11-11",
-            "count": 0
-          },
-          {
-            "date": "2026-11-12",
-            "count": 0
-          },
-          {
-            "date": "2026-11-13",
-            "count": 0
-          },
-          {
-            "date": "2026-11-14",
-            "count": 0
-          },
-          {
-            "date": "2026-11-15",
-            "count": 0
-          },
-          {
-            "date": "2026-11-16",
-            "count": 0
-          },
-          {
-            "date": "2026-11-17",
-            "count": 0
-          }
-        ],
-        "totalCommits": 0,
-        "scope": "Commits on default branches of tracked public repositories; all contributors."
-      }
-    },
-    "television": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-17T07:53:29.077Z",
-      "lastSuccessAt": "2026-11-17T07:53:29.077Z",
-      "error": null,
-      "data": {
-        "episodes": [
-          {
-            "id": 3791856,
-            "title": "Sacrifice",
-            "episode": "Dancing with the Devil",
-            "season": 2,
-            "number": 9,
-            "date": "2026-11-18",
-            "airstamp": "2026-11-18T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3791856/sacrifice-2x09-dancing-with-the-devil",
-            "showUrl": "https://www.tvmaze.com/shows/50786/sacrifice",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Legal"
-            ],
-            "channel": "Paramount+",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3772252,
-            "title": "The Traitors",
-            "episode": "I'm Fighting Till the End",
-            "season": 5,
-            "number": 11,
-            "date": "2026-11-19",
-            "airstamp": "2026-11-20T01:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3772252/the-traitors-5x11-im-fighting-till-the-end",
-            "showUrl": "https://www.tvmaze.com/shows/58177/the-traitors",
-            "genres": [
-              "Action",
-              "Adventure",
-              "Thriller"
-            ],
-            "channel": "NBC",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3772253,
-            "title": "The Traitors",
-            "episode": "Who Do You Truly Trust?",
-            "season": 5,
-            "number": 12,
-            "date": "2026-11-19",
-            "airstamp": "2026-11-20T02:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3772253/the-traitors-5x12-who-do-you-truly-trust",
-            "showUrl": "https://www.tvmaze.com/shows/58177/the-traitors",
-            "genres": [
-              "Action",
-              "Adventure",
-              "Thriller"
-            ],
-            "channel": "NBC",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3784757,
-            "title": "War",
-            "episode": "Partners",
-            "season": 1,
-            "number": 8,
-            "date": "2026-11-19",
-            "airstamp": "2026-11-20T02:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3784757/war-1x08-partners",
-            "showUrl": "https://www.tvmaze.com/shows/86587/war",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Legal"
-            ],
-            "channel": "HBO",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3784257,
-            "title": "Mystery Science Theater 3000",
-            "episode": "Space Raiders",
-            "season": 14,
-            "number": 4,
-            "date": "2026-11-20",
-            "airstamp": "2026-11-21T01:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3784257/mystery-science-theater-3000-14x04-space-raiders",
-            "showUrl": "https://www.tvmaze.com/shows/19499/mystery-science-theater-3000",
-            "genres": [
-              "Comedy",
-              "Science-Fiction"
-            ],
-            "channel": "RiffTrax",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3665759,
-            "title": "Nocturne",
-            "episode": "Solitude",
-            "season": 1,
-            "number": 5,
-            "date": "2026-11-20",
-            "airstamp": "2026-11-20T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3665759/nocturne-1x05-solitude",
-            "showUrl": "https://www.tvmaze.com/shows/66811/nocturne",
-            "genres": [
-              "Drama",
-              "Crime",
-              "Thriller"
-            ],
-            "channel": "Apple TV",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3763351,
-            "title": "Yaga",
-            "episode": "Mother Witch",
-            "season": 1,
-            "number": 6,
-            "date": "2026-11-20",
-            "airstamp": "2026-11-20T17:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3763351/yaga-1x06-mother-witch",
-            "showUrl": "https://www.tvmaze.com/shows/93263/yaga",
-            "genres": [
-              "Thriller",
-              "Mystery",
-              "Supernatural"
-            ],
-            "channel": "Crave",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3706931,
-            "title": "Yellowjackets",
-            "episode": "Hivemind",
-            "season": 4,
-            "number": 1,
-            "date": "2026-11-20",
-            "airstamp": "2026-11-20T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3706931/yellowjackets-4x01-hivemind",
-            "showUrl": "https://www.tvmaze.com/shows/36672/yellowjackets",
-            "genres": [
-              "Drama",
-              "Horror",
-              "Supernatural"
-            ],
-            "channel": "Paramount+",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3795288,
-            "title": "Honey",
-            "episode": "Episode 3",
-            "season": 1,
-            "number": 3,
-            "date": "2026-11-21",
-            "airstamp": "2026-11-21T06:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3795288/honey-1x03-episode-3",
-            "showUrl": "https://www.tvmaze.com/shows/83585/honey",
-            "genres": [
-              "Romance",
-              "Thriller",
-              "Espionage"
-            ],
-            "channel": "BBC iPlayer",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3802958,
-            "title": "Svengoolie",
-            "episode": "Cujo",
-            "season": 32,
-            "number": 53,
-            "date": "2026-11-21",
-            "airstamp": "2026-11-22T01:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3802958/svengoolie-32x53-cujo",
-            "showUrl": "https://www.tvmaze.com/shows/22734/svengoolie",
-            "genres": [
-              "Comedy",
-              "Horror"
-            ],
-            "channel": "Me-TV",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3793967,
-            "title": "The Institute",
-            "episode": "Double Cross",
-            "season": 2,
-            "number": 3,
-            "date": "2026-11-22",
-            "airstamp": "2026-11-23T02:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3793967/the-institute-2x03-double-cross",
-            "showUrl": "https://www.tvmaze.com/shows/77778/the-institute",
-            "genres": [
-              "Horror",
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "MGM+",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3804764,
-            "title": "Fatal Attraction",
-            "episode": "When Lies Collide",
-            "season": 17,
-            "number": 16,
-            "date": "2026-11-23",
-            "airstamp": "2026-11-24T02:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3804764/fatal-attraction-17x16-when-lies-collide",
-            "showUrl": "https://www.tvmaze.com/shows/4887/fatal-attraction",
-            "genres": [
-              "Drama",
-              "Crime",
-              "Thriller"
-            ],
-            "channel": "TV One",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3804165,
-            "title": "The Terrors of Jordan Mendoza",
-            "episode": "Wow, I hope that doesn't happen to me",
-            "season": 1,
-            "number": 11,
-            "date": "2026-11-23",
-            "airstamp": "2026-11-24T05:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3804165/the-terrors-of-jordan-mendoza-1x11-wow-i-hope-that-doesnt-happen-to-me",
-            "showUrl": "https://www.tvmaze.com/shows/86450/the-terrors-of-jordan-mendoza",
-            "genres": [
-              "Comedy",
-              "Horror"
-            ],
-            "channel": "Adult Swim",
-            "scope": "US broadcast"
-          }
-        ],
-        "days": [
-          {
-            "date": "2026-11-17",
-            "count": 0
-          },
-          {
-            "date": "2026-11-18",
-            "count": 1
-          },
-          {
-            "date": "2026-11-19",
-            "count": 3
-          },
-          {
-            "date": "2026-11-20",
-            "count": 4
-          },
-          {
-            "date": "2026-11-21",
-            "count": 2
-          },
-          {
-            "date": "2026-11-22",
-            "count": 1
-          },
-          {
-            "date": "2026-11-23",
-            "count": 2
-          }
-        ],
-        "genres": [
-          "Horror",
-          "Science-Fiction",
-          "Thriller"
-        ],
-        "languages": [
-          "English"
-        ],
-        "source": "TVmaze"
       }
     }
   }
