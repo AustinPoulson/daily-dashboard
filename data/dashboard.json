@@ -1,16 +1,1005 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T20:16:00.095Z",
+  "generatedAt": "2026-11-21T07:05:09.491Z",
   "timezone": "America/Chicago",
   "displayName": "Austin",
   "owner": "AustinPoulson",
   "location": "Plymouth, Minnesota",
   "sources": {
-    "weather": {
+    "horror": {
       "status": "fresh",
-      "lastAttemptAt": "2026-11-20T20:16:00.095Z",
-      "lastSuccessAt": "2026-11-20T20:16:00.095Z",
+      "lastAttemptAt": "2026-11-21T07:05:09.491Z",
+      "lastSuccessAt": "2026-11-21T07:05:09.491Z",
       "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": "https://bloody-disgusting.com/?p=3975966",
+            "title": "From ‘Friend’ to ‘Deadly Friend’: How a Tender Sci-Fi Novel Became a Horror Movie",
+            "url": "https://bloody-disgusting.com/editorials/3975966/from-friend-to-deadly-friend-how-a-tender-sci-fi-novel-became-a-horror-movie/",
+            "publishedAt": "2026-11-19T21:42:45.000Z",
+            "topics": [
+              "Tech & identity",
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976315",
+            "title": "Payback is a Witch in ‘Mayfair Witches: Salem Coven’ Trailer and Poster",
+            "url": "https://bloody-disgusting.com/tv/3976315/payback-is-a-witch-in-mayfair-witches-salem-coven-trailer-and-poster/",
+            "publishedAt": "2026-11-19T16:52:55.000Z",
+            "topics": [
+              "Folk & ritual"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976500",
+            "title": "Former ‘Blade’ Director Left MCU Reboot Because “Life’s Too Short to Make Sh-t Films”",
+            "url": "https://bloody-disgusting.com/movie/3976500/blade-reboot-bassam-tariq-director-exit-explained-canceled/",
+            "publishedAt": "2026-11-20T22:54:49.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976482",
+            "title": "Daisy Ridley’s New Thriller ‘Cupid’ Adds ‘Werewolves Within’ Star Milana Vayntrub",
+            "url": "https://bloody-disgusting.com/movie/3976482/cupid-movie-daisy-ridley-milana-vayntrub/",
+            "publishedAt": "2026-11-20T21:52:51.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976464",
+            "title": "10 Blumhouse Atomic Horror Movies Are Coming in 2027; Here’s the Complete Lineup",
+            "url": "https://bloody-disgusting.com/editorials/3976464/blumhouse-atomic-2027-horror-releases/",
+            "publishedAt": "2026-11-20T20:59:45.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976468",
+            "title": "New 12-Disc 4K Hammer: Gothic Nightmares Set Announced for January 2027",
+            "url": "https://bloody-disgusting.com/movie/3976468/hammer-gothic-nightmares-4k-blu-ray-set/",
+            "publishedAt": "2026-11-20T20:42:33.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976469",
+            "title": "‘Longlegs 2’ – Sterling K. Brown in Talks to Join Nicolas Cage in Osgood Perkins Horror Movie",
+            "url": "https://bloody-disgusting.com/movie/3976469/longlegs-2-sterling-k-brown-in-talks-to-join-nicolas-cage-in-osgood-perkins-horror-movie/",
+            "publishedAt": "2026-11-20T20:11:22.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976452",
+            "title": "‘Supernatural’ Star Jared Padalecki Pitches What He Wants to See in a Sequel Series",
+            "url": "https://bloody-disgusting.com/news/3976452/supernatural-sequel-series-jared-padalecki-reaction/",
+            "publishedAt": "2026-11-20T19:20:08.000Z",
+            "topics": [
+              "Horror"
+            ],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976457",
+            "title": "Adam Wingard’s ‘Onslaught’ Sets Holiday Streaming Debut",
+            "url": "https://bloody-disgusting.com/home-video/3976457/adam-wingards-onslaught-sets-holiday-streaming-debut/",
+            "publishedAt": "2026-11-20T19:14:46.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          },
+          {
+            "id": "https://bloody-disgusting.com/?p=3976444",
+            "title": "New ‘Buffy the Vampire’ Novel Imagines the Slayer Becoming a Bloodsucker",
+            "url": "https://bloody-disgusting.com/news/3976444/buffy-the-vampire-slayer-new-novel-2027/",
+            "publishedAt": "2026-11-20T17:37:55.000Z",
+            "topics": [],
+            "source": "Bloody Disgusting"
+          }
+        ],
+        "source": "Bloody Disgusting"
+      }
+    },
+    "news": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-11-21T07:05:09.491Z",
+      "lastSuccessAt": "2026-11-21T07:05:09.491Z",
+      "error": null,
+      "data": {
+        "stories": [
+          {
+            "id": 50572503,
+            "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+            "url": "https://architectlabs.com/blog/frostbite",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50572503",
+            "publishedAt": "2026-11-20T10:01:41.000Z",
+            "score": 640,
+            "comments": 332,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50563148,
+            "title": "Claude solves two open problems in the physics of black holes",
+            "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50563148",
+            "publishedAt": "2026-11-19T17:30:44.000Z",
+            "score": 554,
+            "comments": 271,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50572348,
+            "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+            "url": "https://signal.org/blog/protecting-your-privacy/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50572348",
+            "publishedAt": "2026-11-20T09:42:16.000Z",
+            "score": 541,
+            "comments": 316,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50526023,
+            "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+            "url": "https://kobi.music/research/dettato",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50526023",
+            "publishedAt": "2026-11-17T01:03:05.000Z",
+            "score": 270,
+            "comments": 56,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50574383,
+            "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+            "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50574383",
+            "publishedAt": "2026-11-20T13:29:59.000Z",
+            "score": 250,
+            "comments": 516,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50585593,
+            "title": "Backblaze Notice at Collection and Privacy Policy",
+            "url": "https://www.backblaze.com/company/policy/privacy",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50585593",
+            "publishedAt": "2026-11-21T03:23:16.000Z",
+            "score": 153,
+            "comments": 47,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50581403,
+            "title": "Show HN: OpenComputer – an open source alternative to Devin",
+            "url": "https://github.com/diggerhq/opencomputer",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50581403",
+            "publishedAt": "2026-11-20T20:19:56.000Z",
+            "score": 100,
+            "comments": 25,
+            "topics": [
+              "Systems & privacy"
+            ]
+          },
+          {
+            "id": 50577872,
+            "title": "AI is giving everyone the same advice",
+            "url": "https://a90.com/experiments/same-advice/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50577872",
+            "publishedAt": "2026-11-20T16:58:05.000Z",
+            "score": 76,
+            "comments": 28,
+            "topics": [
+              "AI & agents"
+            ]
+          },
+          {
+            "id": 50578117,
+            "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+            "url": "https://certuvia.com/blog/postgres-19",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50578117",
+            "publishedAt": "2026-11-20T17:08:56.000Z",
+            "score": 47,
+            "comments": 4,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50585376,
+            "title": "Clojure will affect the way you think about programming (2017)",
+            "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50585376",
+            "publishedAt": "2026-11-21T02:40:39.000Z",
+            "score": 45,
+            "comments": 13,
+            "topics": [
+              "Web & tools"
+            ]
+          },
+          {
+            "id": 50586292,
+            "title": "ClawDOS – An AI coding agent for DOS",
+            "url": "http://ricapar.net/ClawDOS/",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50586292",
+            "publishedAt": "2026-11-21T05:38:01.000Z",
+            "score": 14,
+            "comments": 2,
+            "topics": [
+              "AI & agents"
+            ]
+          }
+        ],
+        "topics": [
+          {
+            "name": "AI & agents",
+            "count": 7
+          },
+          {
+            "name": "Web & tools",
+            "count": 2
+          },
+          {
+            "name": "Graphics",
+            "count": 0
+          },
+          {
+            "name": "Systems & privacy",
+            "count": 2
+          }
+        ],
+        "sampledCount": 60,
+        "matchedCount": 11,
+        "source": "Hacker News"
+      }
+    },
+    "github": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-11-21T07:05:09.491Z",
+      "lastSuccessAt": "2026-11-21T07:05:09.491Z",
+      "error": null,
+      "data": {
+        "owner": "AustinPoulson",
+        "repositories": [
+          {
+            "name": "abyss",
+            "url": "https://github.com/AustinPoulson/abyss",
+            "description": "",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2026-09-16T16:13:04Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "HomePage",
+            "url": "https://github.com/AustinPoulson/HomePage",
+            "description": "Custom home page for my browser",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2025-08-04T22:02:04Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "devScripts",
+            "url": "https://github.com/AustinPoulson/devScripts",
+            "description": "Some scripts to make dev work easier",
+            "language": "Batchfile",
+            "stars": 0,
+            "pushedAt": "2024-03-24T02:41:31Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          },
+          {
+            "name": "RataTaskr",
+            "url": "https://github.com/AustinPoulson/RataTaskr",
+            "description": "Library of tools to aggregate data",
+            "language": "JavaScript",
+            "stars": 0,
+            "pushedAt": "2024-12-03T23:30:50Z",
+            "commits": 0,
+            "openPulls": 0,
+            "openIssues": 0,
+            "issueCountCapped": false,
+            "pullCountCapped": false
+          }
+        ],
+        "activity": [
+          {
+            "date": "2026-10-25",
+            "count": 0
+          },
+          {
+            "date": "2026-10-26",
+            "count": 0
+          },
+          {
+            "date": "2026-10-27",
+            "count": 0
+          },
+          {
+            "date": "2026-10-28",
+            "count": 0
+          },
+          {
+            "date": "2026-10-29",
+            "count": 0
+          },
+          {
+            "date": "2026-10-30",
+            "count": 0
+          },
+          {
+            "date": "2026-10-31",
+            "count": 0
+          },
+          {
+            "date": "2026-11-01",
+            "count": 0
+          },
+          {
+            "date": "2026-11-02",
+            "count": 0
+          },
+          {
+            "date": "2026-11-03",
+            "count": 0
+          },
+          {
+            "date": "2026-11-04",
+            "count": 0
+          },
+          {
+            "date": "2026-11-05",
+            "count": 0
+          },
+          {
+            "date": "2026-11-06",
+            "count": 0
+          },
+          {
+            "date": "2026-11-07",
+            "count": 0
+          },
+          {
+            "date": "2026-11-08",
+            "count": 0
+          },
+          {
+            "date": "2026-11-09",
+            "count": 0
+          },
+          {
+            "date": "2026-11-10",
+            "count": 0
+          },
+          {
+            "date": "2026-11-11",
+            "count": 0
+          },
+          {
+            "date": "2026-11-12",
+            "count": 0
+          },
+          {
+            "date": "2026-11-13",
+            "count": 0
+          },
+          {
+            "date": "2026-11-14",
+            "count": 0
+          },
+          {
+            "date": "2026-11-15",
+            "count": 0
+          },
+          {
+            "date": "2026-11-16",
+            "count": 0
+          },
+          {
+            "date": "2026-11-17",
+            "count": 0
+          },
+          {
+            "date": "2026-11-18",
+            "count": 0
+          },
+          {
+            "date": "2026-11-19",
+            "count": 0
+          },
+          {
+            "date": "2026-11-20",
+            "count": 0
+          },
+          {
+            "date": "2026-11-21",
+            "count": 0
+          }
+        ],
+        "totalCommits": 0,
+        "scope": "Commits on default branches of tracked public repositories; all contributors."
+      }
+    },
+    "television": {
+      "status": "fresh",
+      "lastAttemptAt": "2026-11-21T07:05:09.491Z",
+      "lastSuccessAt": "2026-11-21T07:05:09.491Z",
+      "error": null,
+      "data": {
+        "episodes": [
+          {
+            "id": 3795288,
+            "title": "Honey",
+            "episode": "Episode 3",
+            "season": 1,
+            "number": 3,
+            "date": "2026-11-21",
+            "airstamp": "2026-11-21T06:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3795288/honey-1x03-episode-3",
+            "showUrl": "https://www.tvmaze.com/shows/83585/honey",
+            "genres": [
+              "Romance",
+              "Thriller",
+              "Espionage"
+            ],
+            "channel": "BBC iPlayer",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3802958,
+            "title": "Svengoolie",
+            "episode": "Cujo",
+            "season": 32,
+            "number": 53,
+            "date": "2026-11-21",
+            "airstamp": "2026-11-22T01:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3802958/svengoolie-32x53-cujo",
+            "showUrl": "https://www.tvmaze.com/shows/22734/svengoolie",
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "channel": "Me-TV",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3793967,
+            "title": "The Institute",
+            "episode": "Double Cross",
+            "season": 2,
+            "number": 3,
+            "date": "2026-11-22",
+            "airstamp": "2026-11-23T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3793967/the-institute-2x03-double-cross",
+            "showUrl": "https://www.tvmaze.com/shows/77778/the-institute",
+            "genres": [
+              "Horror",
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "MGM+",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3804764,
+            "title": "Fatal Attraction",
+            "episode": "When Lies Collide",
+            "season": 17,
+            "number": 16,
+            "date": "2026-11-23",
+            "airstamp": "2026-11-24T02:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3804764/fatal-attraction-17x16-when-lies-collide",
+            "showUrl": "https://www.tvmaze.com/shows/4887/fatal-attraction",
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "channel": "TV One",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3804165,
+            "title": "The Terrors of Jordan Mendoza",
+            "episode": "Wow, I hope that doesn't happen to me",
+            "season": 1,
+            "number": 11,
+            "date": "2026-11-23",
+            "airstamp": "2026-11-24T05:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3804165/the-terrors-of-jordan-mendoza-1x11-wow-i-hope-that-doesnt-happen-to-me",
+            "showUrl": "https://www.tvmaze.com/shows/86450/the-terrors-of-jordan-mendoza",
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "channel": "Adult Swim",
+            "scope": "US broadcast"
+          },
+          {
+            "id": 3682675,
+            "title": "Blade Runner 2099",
+            "episode": "TBA",
+            "season": 1,
+            "number": 1,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3682675/blade-runner-2099-1x01-tba",
+            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
+            "genres": [
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3682725,
+            "title": "Blade Runner 2099",
+            "episode": "TBA",
+            "season": 1,
+            "number": 2,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3682725/blade-runner-2099-1x02-tba",
+            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
+            "genres": [
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3682726,
+            "title": "Blade Runner 2099",
+            "episode": "TBA",
+            "season": 1,
+            "number": 3,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3682726/blade-runner-2099-1x03-tba",
+            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
+            "genres": [
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3682727,
+            "title": "Blade Runner 2099",
+            "episode": "TBA",
+            "season": 1,
+            "number": 4,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3682727/blade-runner-2099-1x04-tba",
+            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
+            "genres": [
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3682728,
+            "title": "Blade Runner 2099",
+            "episode": "TBA",
+            "season": 1,
+            "number": 5,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3682728/blade-runner-2099-1x05-tba",
+            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
+            "genres": [
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3682729,
+            "title": "Blade Runner 2099",
+            "episode": "TBA",
+            "season": 1,
+            "number": 6,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3682729/blade-runner-2099-1x06-tba",
+            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
+            "genres": [
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3682730,
+            "title": "Blade Runner 2099",
+            "episode": "TBA",
+            "season": 1,
+            "number": 7,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3682730/blade-runner-2099-1x07-tba",
+            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
+            "genres": [
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3682731,
+            "title": "Blade Runner 2099",
+            "episode": "TBA",
+            "season": 1,
+            "number": 8,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3682731/blade-runner-2099-1x08-tba",
+            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
+            "genres": [
+              "Science-Fiction",
+              "Thriller"
+            ],
+            "channel": "Prime Video",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3665760,
+            "title": "Nocturne",
+            "episode": "Only Connect",
+            "season": 1,
+            "number": 6,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3665760/nocturne-1x06-only-connect",
+            "showUrl": "https://www.tvmaze.com/shows/66811/nocturne",
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "channel": "Apple TV",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3791857,
+            "title": "Sacrifice",
+            "episode": "Chasing Ghosts",
+            "season": 2,
+            "number": 10,
+            "date": "2026-11-25",
+            "airstamp": "2026-11-25T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3791857/sacrifice-2x10-chasing-ghosts",
+            "showUrl": "https://www.tvmaze.com/shows/50786/sacrifice",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Legal"
+            ],
+            "channel": "Paramount+",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3801669,
+            "title": "Sweetpea",
+            "episode": "Why Did You Have to Ruin Everything?",
+            "season": 2,
+            "number": 1,
+            "date": "2026-11-26",
+            "airstamp": "2026-11-26T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3801669/sweetpea-2x01-why-did-you-have-to-ruin-everything",
+            "showUrl": "https://www.tvmaze.com/shows/46251/sweetpea",
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Thriller"
+            ],
+            "channel": "Now",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3706933,
+            "title": "The Hunting Wives",
+            "episode": "TBA",
+            "season": 2,
+            "number": 1,
+            "date": "2026-11-26",
+            "airstamp": "2026-11-26T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3706933/the-hunting-wives-2x01-tba",
+            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3783558,
+            "title": "The Hunting Wives",
+            "episode": "TBA",
+            "season": 2,
+            "number": 2,
+            "date": "2026-11-26",
+            "airstamp": "2026-11-26T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3783558/the-hunting-wives-2x02-tba",
+            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3783559,
+            "title": "The Hunting Wives",
+            "episode": "TBA",
+            "season": 2,
+            "number": 3,
+            "date": "2026-11-26",
+            "airstamp": "2026-11-26T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3783559/the-hunting-wives-2x03-tba",
+            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3783560,
+            "title": "The Hunting Wives",
+            "episode": "TBA",
+            "season": 2,
+            "number": 4,
+            "date": "2026-11-26",
+            "airstamp": "2026-11-26T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3783560/the-hunting-wives-2x04-tba",
+            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3783561,
+            "title": "The Hunting Wives",
+            "episode": "Hunting Wives",
+            "season": 2,
+            "number": 5,
+            "date": "2026-11-26",
+            "airstamp": "2026-11-26T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3783561/the-hunting-wives-2x05-hunting-wives",
+            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3783562,
+            "title": "The Hunting Wives",
+            "episode": "TBA",
+            "season": 2,
+            "number": 6,
+            "date": "2026-11-26",
+            "airstamp": "2026-11-26T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3783562/the-hunting-wives-2x06-tba",
+            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3783563,
+            "title": "The Hunting Wives",
+            "episode": "TBA",
+            "season": 2,
+            "number": 7,
+            "date": "2026-11-26",
+            "airstamp": "2026-11-26T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3783563/the-hunting-wives-2x07-tba",
+            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3783564,
+            "title": "The Hunting Wives",
+            "episode": "TBA",
+            "season": 2,
+            "number": 8,
+            "date": "2026-11-26",
+            "airstamp": "2026-11-26T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3783564/the-hunting-wives-2x08-tba",
+            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "channel": "Netflix",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3794912,
+            "title": "Batwheels",
+            "episode": "TBA",
+            "season": 4,
+            "number": 1,
+            "date": "2026-11-27",
+            "airstamp": "2026-11-27T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3794912/batwheels-4x01-tba",
+            "showUrl": "https://www.tvmaze.com/shows/51042/batwheels",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science-Fiction"
+            ],
+            "channel": "HBO Max",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3763352,
+            "title": "Yaga",
+            "episode": "There Must Always Be Three",
+            "season": 1,
+            "number": 7,
+            "date": "2026-11-27",
+            "airstamp": "2026-11-27T17:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3763352/yaga-1x07-there-must-always-be-three",
+            "showUrl": "https://www.tvmaze.com/shows/93263/yaga",
+            "genres": [
+              "Thriller",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Crave",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3763353,
+            "title": "Yaga",
+            "episode": "We Are All Yaga",
+            "season": 1,
+            "number": 8,
+            "date": "2026-11-27",
+            "airstamp": "2026-11-27T17:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3763353/yaga-1x08-we-are-all-yaga",
+            "showUrl": "https://www.tvmaze.com/shows/93263/yaga",
+            "genres": [
+              "Thriller",
+              "Mystery",
+              "Supernatural"
+            ],
+            "channel": "Crave",
+            "scope": "Global streaming schedule"
+          },
+          {
+            "id": 3817389,
+            "title": "Yellowjackets",
+            "episode": "Human Interest",
+            "season": 4,
+            "number": 2,
+            "date": "2026-11-27",
+            "airstamp": "2026-11-27T12:00:00+00:00",
+            "url": "https://www.tvmaze.com/episodes/3817389/yellowjackets-4x02-human-interest",
+            "showUrl": "https://www.tvmaze.com/shows/36672/yellowjackets",
+            "genres": [
+              "Drama",
+              "Horror",
+              "Supernatural"
+            ],
+            "channel": "Paramount+",
+            "scope": "Global streaming schedule"
+          }
+        ],
+        "days": [
+          {
+            "date": "2026-11-21",
+            "count": 2
+          },
+          {
+            "date": "2026-11-22",
+            "count": 1
+          },
+          {
+            "date": "2026-11-23",
+            "count": 2
+          },
+          {
+            "date": "2026-11-24",
+            "count": 0
+          },
+          {
+            "date": "2026-11-25",
+            "count": 10
+          },
+          {
+            "date": "2026-11-26",
+            "count": 9
+          },
+          {
+            "date": "2026-11-27",
+            "count": 4
+          }
+        ],
+        "genres": [
+          "Horror",
+          "Science-Fiction",
+          "Thriller"
+        ],
+        "languages": [
+          "English"
+        ],
+        "source": "TVmaze"
+      }
+    },
+    "weather": {
+      "status": "stale",
+      "lastAttemptAt": "2026-11-21T07:05:09.491Z",
+      "lastSuccessAt": "2026-11-20T20:16:00.095Z",
+      "error": "fetch failed",
       "data": {
         "location": "Plymouth, Minnesota",
         "timezone": "America/Chicago",
@@ -781,1040 +1770,6 @@
             3
           ]
         }
-      }
-    },
-    "news": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-20T20:16:00.095Z",
-      "lastSuccessAt": "2026-11-20T20:16:00.095Z",
-      "error": null,
-      "data": {
-        "stories": [
-          {
-            "id": 50572503,
-            "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-            "url": "https://architectlabs.com/blog/frostbite",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50572503",
-            "publishedAt": "2026-11-20T10:01:41.000Z",
-            "score": 550,
-            "comments": 295,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50563148,
-            "title": "Claude solves two open problems in the physics of black holes",
-            "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50563148",
-            "publishedAt": "2026-11-19T17:30:44.000Z",
-            "score": 547,
-            "comments": 264,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50572348,
-            "title": "Signal Is Serious About Protecting Your Privacy",
-            "url": "https://signal.org/blog/protecting-your-privacy/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50572348",
-            "publishedAt": "2026-11-20T09:42:16.000Z",
-            "score": 370,
-            "comments": 230,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 50526023,
-            "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-            "url": "https://kobi.music/research/dettato",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50526023",
-            "publishedAt": "2026-11-17T01:03:05.000Z",
-            "score": 189,
-            "comments": 35,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50567209,
-            "title": "Synology Security Advisory",
-            "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50567209",
-            "publishedAt": "2026-11-19T22:13:40.000Z",
-            "score": 178,
-            "comments": 137,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 50578794,
-            "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-            "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50578794",
-            "publishedAt": "2026-11-20T17:44:01.000Z",
-            "score": 148,
-            "comments": 125,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50577901,
-            "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-            "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50577901",
-            "publishedAt": "2026-11-20T16:59:27.000Z",
-            "score": 136,
-            "comments": 78,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50562320,
-            "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-            "url": "https://github.com/onlook-dev/onlook/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50562320",
-            "publishedAt": "2026-11-19T16:34:04.000Z",
-            "score": 122,
-            "comments": 84,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50538977,
-            "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-            "url": "https://notesbylex.com/weight-space-programming-1990s",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50538977",
-            "publishedAt": "2026-11-17T22:11:46.000Z",
-            "score": 118,
-            "comments": 11,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50578117,
-            "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
-            "url": "https://certuvia.com/blog/postgres-19",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50578117",
-            "publishedAt": "2026-11-20T17:08:56.000Z",
-            "score": 24,
-            "comments": 1,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50579237,
-            "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
-            "url": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50579237",
-            "publishedAt": "2026-11-20T18:11:11.000Z",
-            "score": 17,
-            "comments": 3,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50545262,
-            "title": "Teskooano: A 3D N-body simulator in the browser",
-            "url": "https://teskooano.space/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50545262",
-            "publishedAt": "2026-11-18T12:02:59.000Z",
-            "score": 8,
-            "comments": 1,
-            "topics": [
-              "Web & tools"
-            ]
-          },
-          {
-            "id": 50580666,
-            "title": "An all-digital future means constant security breaches",
-            "url": "https://www.dedoimedo.com/life/digital-future.html",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50580666",
-            "publishedAt": "2026-11-20T19:37:31.000Z",
-            "score": 6,
-            "comments": 0,
-            "topics": [
-              "Systems & privacy"
-            ]
-          },
-          {
-            "id": 50577872,
-            "title": "AI is giving everyone the same advice",
-            "url": "https://a90.com/experiments/same-advice/",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50577872",
-            "publishedAt": "2026-11-20T16:58:05.000Z",
-            "score": 3,
-            "comments": 0,
-            "topics": [
-              "AI & agents"
-            ]
-          },
-          {
-            "id": 50580620,
-            "title": "Anthropic is not living up to its ideals",
-            "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its",
-            "discussionUrl": "https://news.ycombinator.com/item?id=50580620",
-            "publishedAt": "2026-11-20T19:35:04.000Z",
-            "score": 3,
-            "comments": 0,
-            "topics": [
-              "AI & agents"
-            ]
-          }
-        ],
-        "topics": [
-          {
-            "name": "AI & agents",
-            "count": 8
-          },
-          {
-            "name": "Web & tools",
-            "count": 4
-          },
-          {
-            "name": "Graphics",
-            "count": 0
-          },
-          {
-            "name": "Systems & privacy",
-            "count": 3
-          }
-        ],
-        "sampledCount": 60,
-        "matchedCount": 15,
-        "source": "Hacker News"
-      }
-    },
-    "github": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-20T20:16:00.095Z",
-      "lastSuccessAt": "2026-11-20T20:16:00.095Z",
-      "error": null,
-      "data": {
-        "owner": "AustinPoulson",
-        "repositories": [
-          {
-            "name": "abyss",
-            "url": "https://github.com/AustinPoulson/abyss",
-            "description": "",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2026-09-16T16:13:04Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "HomePage",
-            "url": "https://github.com/AustinPoulson/HomePage",
-            "description": "Custom home page for my browser",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2025-08-04T22:02:04Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "devScripts",
-            "url": "https://github.com/AustinPoulson/devScripts",
-            "description": "Some scripts to make dev work easier",
-            "language": "Batchfile",
-            "stars": 0,
-            "pushedAt": "2024-03-24T02:41:31Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          },
-          {
-            "name": "RataTaskr",
-            "url": "https://github.com/AustinPoulson/RataTaskr",
-            "description": "Library of tools to aggregate data",
-            "language": "JavaScript",
-            "stars": 0,
-            "pushedAt": "2024-12-03T23:30:50Z",
-            "commits": 0,
-            "openPulls": 0,
-            "openIssues": 0,
-            "issueCountCapped": false,
-            "pullCountCapped": false
-          }
-        ],
-        "activity": [
-          {
-            "date": "2026-10-24",
-            "count": 0
-          },
-          {
-            "date": "2026-10-25",
-            "count": 0
-          },
-          {
-            "date": "2026-10-26",
-            "count": 0
-          },
-          {
-            "date": "2026-10-27",
-            "count": 0
-          },
-          {
-            "date": "2026-10-28",
-            "count": 0
-          },
-          {
-            "date": "2026-10-29",
-            "count": 0
-          },
-          {
-            "date": "2026-10-30",
-            "count": 0
-          },
-          {
-            "date": "2026-10-31",
-            "count": 0
-          },
-          {
-            "date": "2026-11-01",
-            "count": 0
-          },
-          {
-            "date": "2026-11-02",
-            "count": 0
-          },
-          {
-            "date": "2026-11-03",
-            "count": 0
-          },
-          {
-            "date": "2026-11-04",
-            "count": 0
-          },
-          {
-            "date": "2026-11-05",
-            "count": 0
-          },
-          {
-            "date": "2026-11-06",
-            "count": 0
-          },
-          {
-            "date": "2026-11-07",
-            "count": 0
-          },
-          {
-            "date": "2026-11-08",
-            "count": 0
-          },
-          {
-            "date": "2026-11-09",
-            "count": 0
-          },
-          {
-            "date": "2026-11-10",
-            "count": 0
-          },
-          {
-            "date": "2026-11-11",
-            "count": 0
-          },
-          {
-            "date": "2026-11-12",
-            "count": 0
-          },
-          {
-            "date": "2026-11-13",
-            "count": 0
-          },
-          {
-            "date": "2026-11-14",
-            "count": 0
-          },
-          {
-            "date": "2026-11-15",
-            "count": 0
-          },
-          {
-            "date": "2026-11-16",
-            "count": 0
-          },
-          {
-            "date": "2026-11-17",
-            "count": 0
-          },
-          {
-            "date": "2026-11-18",
-            "count": 0
-          },
-          {
-            "date": "2026-11-19",
-            "count": 0
-          },
-          {
-            "date": "2026-11-20",
-            "count": 0
-          }
-        ],
-        "totalCommits": 0,
-        "scope": "Commits on default branches of tracked public repositories; all contributors."
-      }
-    },
-    "television": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-20T20:16:00.095Z",
-      "lastSuccessAt": "2026-11-20T20:16:00.095Z",
-      "error": null,
-      "data": {
-        "episodes": [
-          {
-            "id": 3784257,
-            "title": "Mystery Science Theater 3000",
-            "episode": "Space Raiders",
-            "season": 14,
-            "number": 4,
-            "date": "2026-11-20",
-            "airstamp": "2026-11-21T01:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3784257/mystery-science-theater-3000-14x04-space-raiders",
-            "showUrl": "https://www.tvmaze.com/shows/19499/mystery-science-theater-3000",
-            "genres": [
-              "Comedy",
-              "Science-Fiction"
-            ],
-            "channel": "RiffTrax",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3665759,
-            "title": "Nocturne",
-            "episode": "Solitude",
-            "season": 1,
-            "number": 5,
-            "date": "2026-11-20",
-            "airstamp": "2026-11-20T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3665759/nocturne-1x05-solitude",
-            "showUrl": "https://www.tvmaze.com/shows/66811/nocturne",
-            "genres": [
-              "Drama",
-              "Crime",
-              "Thriller"
-            ],
-            "channel": "Apple TV",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3763351,
-            "title": "Yaga",
-            "episode": "Mother Witch",
-            "season": 1,
-            "number": 6,
-            "date": "2026-11-20",
-            "airstamp": "2026-11-20T17:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3763351/yaga-1x06-mother-witch",
-            "showUrl": "https://www.tvmaze.com/shows/93263/yaga",
-            "genres": [
-              "Thriller",
-              "Mystery",
-              "Supernatural"
-            ],
-            "channel": "Crave",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3706931,
-            "title": "Yellowjackets",
-            "episode": "Hivemind",
-            "season": 4,
-            "number": 1,
-            "date": "2026-11-20",
-            "airstamp": "2026-11-20T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3706931/yellowjackets-4x01-hivemind",
-            "showUrl": "https://www.tvmaze.com/shows/36672/yellowjackets",
-            "genres": [
-              "Drama",
-              "Horror",
-              "Supernatural"
-            ],
-            "channel": "Paramount+",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3795288,
-            "title": "Honey",
-            "episode": "Episode 3",
-            "season": 1,
-            "number": 3,
-            "date": "2026-11-21",
-            "airstamp": "2026-11-21T06:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3795288/honey-1x03-episode-3",
-            "showUrl": "https://www.tvmaze.com/shows/83585/honey",
-            "genres": [
-              "Romance",
-              "Thriller",
-              "Espionage"
-            ],
-            "channel": "BBC iPlayer",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3802958,
-            "title": "Svengoolie",
-            "episode": "Cujo",
-            "season": 32,
-            "number": 53,
-            "date": "2026-11-21",
-            "airstamp": "2026-11-22T01:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3802958/svengoolie-32x53-cujo",
-            "showUrl": "https://www.tvmaze.com/shows/22734/svengoolie",
-            "genres": [
-              "Comedy",
-              "Horror"
-            ],
-            "channel": "Me-TV",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3793967,
-            "title": "The Institute",
-            "episode": "Double Cross",
-            "season": 2,
-            "number": 3,
-            "date": "2026-11-22",
-            "airstamp": "2026-11-23T02:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3793967/the-institute-2x03-double-cross",
-            "showUrl": "https://www.tvmaze.com/shows/77778/the-institute",
-            "genres": [
-              "Horror",
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "MGM+",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3804764,
-            "title": "Fatal Attraction",
-            "episode": "When Lies Collide",
-            "season": 17,
-            "number": 16,
-            "date": "2026-11-23",
-            "airstamp": "2026-11-24T02:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3804764/fatal-attraction-17x16-when-lies-collide",
-            "showUrl": "https://www.tvmaze.com/shows/4887/fatal-attraction",
-            "genres": [
-              "Drama",
-              "Crime",
-              "Thriller"
-            ],
-            "channel": "TV One",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3804165,
-            "title": "The Terrors of Jordan Mendoza",
-            "episode": "Wow, I hope that doesn't happen to me",
-            "season": 1,
-            "number": 11,
-            "date": "2026-11-23",
-            "airstamp": "2026-11-24T05:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3804165/the-terrors-of-jordan-mendoza-1x11-wow-i-hope-that-doesnt-happen-to-me",
-            "showUrl": "https://www.tvmaze.com/shows/86450/the-terrors-of-jordan-mendoza",
-            "genres": [
-              "Comedy",
-              "Horror"
-            ],
-            "channel": "Adult Swim",
-            "scope": "US broadcast"
-          },
-          {
-            "id": 3682675,
-            "title": "Blade Runner 2099",
-            "episode": "TBA",
-            "season": 1,
-            "number": 1,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3682675/blade-runner-2099-1x01-tba",
-            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
-            "genres": [
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "Prime Video",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3682725,
-            "title": "Blade Runner 2099",
-            "episode": "TBA",
-            "season": 1,
-            "number": 2,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3682725/blade-runner-2099-1x02-tba",
-            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
-            "genres": [
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "Prime Video",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3682726,
-            "title": "Blade Runner 2099",
-            "episode": "TBA",
-            "season": 1,
-            "number": 3,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3682726/blade-runner-2099-1x03-tba",
-            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
-            "genres": [
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "Prime Video",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3682727,
-            "title": "Blade Runner 2099",
-            "episode": "TBA",
-            "season": 1,
-            "number": 4,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3682727/blade-runner-2099-1x04-tba",
-            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
-            "genres": [
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "Prime Video",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3682728,
-            "title": "Blade Runner 2099",
-            "episode": "TBA",
-            "season": 1,
-            "number": 5,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3682728/blade-runner-2099-1x05-tba",
-            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
-            "genres": [
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "Prime Video",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3682729,
-            "title": "Blade Runner 2099",
-            "episode": "TBA",
-            "season": 1,
-            "number": 6,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3682729/blade-runner-2099-1x06-tba",
-            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
-            "genres": [
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "Prime Video",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3682730,
-            "title": "Blade Runner 2099",
-            "episode": "TBA",
-            "season": 1,
-            "number": 7,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3682730/blade-runner-2099-1x07-tba",
-            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
-            "genres": [
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "Prime Video",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3682731,
-            "title": "Blade Runner 2099",
-            "episode": "TBA",
-            "season": 1,
-            "number": 8,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3682731/blade-runner-2099-1x08-tba",
-            "showUrl": "https://www.tvmaze.com/shows/60458/blade-runner-2099",
-            "genres": [
-              "Science-Fiction",
-              "Thriller"
-            ],
-            "channel": "Prime Video",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3665760,
-            "title": "Nocturne",
-            "episode": "Only Connect",
-            "season": 1,
-            "number": 6,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3665760/nocturne-1x06-only-connect",
-            "showUrl": "https://www.tvmaze.com/shows/66811/nocturne",
-            "genres": [
-              "Drama",
-              "Crime",
-              "Thriller"
-            ],
-            "channel": "Apple TV",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3791857,
-            "title": "Sacrifice",
-            "episode": "Chasing Ghosts",
-            "season": 2,
-            "number": 10,
-            "date": "2026-11-25",
-            "airstamp": "2026-11-25T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3791857/sacrifice-2x10-chasing-ghosts",
-            "showUrl": "https://www.tvmaze.com/shows/50786/sacrifice",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Legal"
-            ],
-            "channel": "Paramount+",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3801669,
-            "title": "Sweetpea",
-            "episode": "Why Did You Have to Ruin Everything?",
-            "season": 2,
-            "number": 1,
-            "date": "2026-11-26",
-            "airstamp": "2026-11-26T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3801669/sweetpea-2x01-why-did-you-have-to-ruin-everything",
-            "showUrl": "https://www.tvmaze.com/shows/46251/sweetpea",
-            "genres": [
-              "Drama",
-              "Comedy",
-              "Thriller"
-            ],
-            "channel": "Now",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3706933,
-            "title": "The Hunting Wives",
-            "episode": "TBA",
-            "season": 2,
-            "number": 1,
-            "date": "2026-11-26",
-            "airstamp": "2026-11-26T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3706933/the-hunting-wives-2x01-tba",
-            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Mystery"
-            ],
-            "channel": "Netflix",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3783558,
-            "title": "The Hunting Wives",
-            "episode": "TBA",
-            "season": 2,
-            "number": 2,
-            "date": "2026-11-26",
-            "airstamp": "2026-11-26T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3783558/the-hunting-wives-2x02-tba",
-            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Mystery"
-            ],
-            "channel": "Netflix",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3783559,
-            "title": "The Hunting Wives",
-            "episode": "TBA",
-            "season": 2,
-            "number": 3,
-            "date": "2026-11-26",
-            "airstamp": "2026-11-26T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3783559/the-hunting-wives-2x03-tba",
-            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Mystery"
-            ],
-            "channel": "Netflix",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3783560,
-            "title": "The Hunting Wives",
-            "episode": "TBA",
-            "season": 2,
-            "number": 4,
-            "date": "2026-11-26",
-            "airstamp": "2026-11-26T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3783560/the-hunting-wives-2x04-tba",
-            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Mystery"
-            ],
-            "channel": "Netflix",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3783561,
-            "title": "The Hunting Wives",
-            "episode": "Hunting Wives",
-            "season": 2,
-            "number": 5,
-            "date": "2026-11-26",
-            "airstamp": "2026-11-26T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3783561/the-hunting-wives-2x05-hunting-wives",
-            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Mystery"
-            ],
-            "channel": "Netflix",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3783562,
-            "title": "The Hunting Wives",
-            "episode": "TBA",
-            "season": 2,
-            "number": 6,
-            "date": "2026-11-26",
-            "airstamp": "2026-11-26T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3783562/the-hunting-wives-2x06-tba",
-            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Mystery"
-            ],
-            "channel": "Netflix",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3783563,
-            "title": "The Hunting Wives",
-            "episode": "TBA",
-            "season": 2,
-            "number": 7,
-            "date": "2026-11-26",
-            "airstamp": "2026-11-26T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3783563/the-hunting-wives-2x07-tba",
-            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Mystery"
-            ],
-            "channel": "Netflix",
-            "scope": "Global streaming schedule"
-          },
-          {
-            "id": 3783564,
-            "title": "The Hunting Wives",
-            "episode": "TBA",
-            "season": 2,
-            "number": 8,
-            "date": "2026-11-26",
-            "airstamp": "2026-11-26T12:00:00+00:00",
-            "url": "https://www.tvmaze.com/episodes/3783564/the-hunting-wives-2x08-tba",
-            "showUrl": "https://www.tvmaze.com/shows/72427/the-hunting-wives",
-            "genres": [
-              "Drama",
-              "Thriller",
-              "Mystery"
-            ],
-            "channel": "Netflix",
-            "scope": "Global streaming schedule"
-          }
-        ],
-        "days": [
-          {
-            "date": "2026-11-20",
-            "count": 4
-          },
-          {
-            "date": "2026-11-21",
-            "count": 2
-          },
-          {
-            "date": "2026-11-22",
-            "count": 1
-          },
-          {
-            "date": "2026-11-23",
-            "count": 2
-          },
-          {
-            "date": "2026-11-24",
-            "count": 0
-          },
-          {
-            "date": "2026-11-25",
-            "count": 10
-          },
-          {
-            "date": "2026-11-26",
-            "count": 9
-          }
-        ],
-        "genres": [
-          "Horror",
-          "Science-Fiction",
-          "Thriller"
-        ],
-        "languages": [
-          "English"
-        ],
-        "source": "TVmaze"
-      }
-    },
-    "horror": {
-      "status": "fresh",
-      "lastAttemptAt": "2026-11-20T20:16:00.095Z",
-      "lastSuccessAt": "2026-11-20T20:16:00.095Z",
-      "error": null,
-      "data": {
-        "stories": [
-          {
-            "id": "https://bloody-disgusting.com/?p=3975966",
-            "title": "From ‘Friend’ to ‘Deadly Friend’: How a Tender Sci-Fi Novel Became a Horror Movie",
-            "url": "https://bloody-disgusting.com/editorials/3975966/from-friend-to-deadly-friend-how-a-tender-sci-fi-novel-became-a-horror-movie/",
-            "publishedAt": "2026-11-19T21:42:45.000Z",
-            "topics": [
-              "Tech & identity",
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3976315",
-            "title": "Payback is a Witch in ‘Mayfair Witches: Salem Coven’ Trailer and Poster",
-            "url": "https://bloody-disgusting.com/tv/3976315/payback-is-a-witch-in-mayfair-witches-salem-coven-trailer-and-poster/",
-            "publishedAt": "2026-11-19T16:52:55.000Z",
-            "topics": [
-              "Folk & ritual"
-            ],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3976469",
-            "title": "‘Longlegs 2’ – Sterling K. Brown in Talks to Join Nicolas Cage in Osgood Perkins Horror Movie",
-            "url": "https://bloody-disgusting.com/movie/3976469/longlegs-2-sterling-k-brown-in-talks-to-join-nicolas-cage-in-osgood-perkins-horror-movie/",
-            "publishedAt": "2026-11-20T20:11:22.000Z",
-            "topics": [
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3976452",
-            "title": "‘Supernatural’ Star Jared Padalecki Pitches What He Wants to See in a Sequel Series",
-            "url": "https://bloody-disgusting.com/news/3976452/supernatural-sequel-series-jared-padalecki-reaction/",
-            "publishedAt": "2026-11-20T19:20:08.000Z",
-            "topics": [
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3976457",
-            "title": "Adam Wingard’s ‘Onslaught’ Sets Holiday Streaming Debut",
-            "url": "https://bloody-disgusting.com/home-video/3976457/adam-wingards-onslaught-sets-holiday-streaming-debut/",
-            "publishedAt": "2026-11-20T19:14:46.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3976444",
-            "title": "New ‘Buffy the Vampire’ Novel Imagines the Slayer Becoming a Bloodsucker",
-            "url": "https://bloody-disgusting.com/news/3976444/buffy-the-vampire-slayer-new-novel-2027/",
-            "publishedAt": "2026-11-20T17:37:55.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3976438",
-            "title": "Petition to Cancel Netflix’s ‘The Body’ From Religious Group Gets More Than 130,000 Signatures",
-            "url": "https://bloody-disgusting.com/news/3976438/the-body-petition-netflix-cancellation-backlash-religious-group-signature/",
-            "publishedAt": "2026-11-20T16:40:47.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3976233",
-            "title": "‘Carrie’ Star Amber Midthunder Reveals Deleted Scene, Prom Night Secrets and Working with Mike Flanagan",
-            "url": "https://bloody-disgusting.com/interviews/3976233/carrie-star-amber-midthunder-reveals-deleted-scene-prom-night-secrets/",
-            "publishedAt": "2026-11-20T16:00:48.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3976423",
-            "title": "Horror Series ‘FROM’ Is a Massive Hit on Netflix With 5 Billion Minutes Viewed Across Three Weeks",
-            "url": "https://bloody-disgusting.com/tv/3976423/horror-series-from-is-a-massive-hit-on-netflix-with-5-billion-minutes-viewed-across-three-weeks/",
-            "publishedAt": "2026-11-20T15:50:58.000Z",
-            "topics": [
-              "Horror"
-            ],
-            "source": "Bloody Disgusting"
-          },
-          {
-            "id": "https://bloody-disgusting.com/?p=3975924",
-            "title": "5 Scariest Episodes of ‘Mayfair Watchers Society’ You Need to Hear Before the Movie",
-            "url": "https://bloody-disgusting.com/editorials/3975924/5-of-the-scariest-episodes-of-the-mayfair-watchers-society-podcast/",
-            "publishedAt": "2026-11-20T15:24:44.000Z",
-            "topics": [],
-            "source": "Bloody Disgusting"
-          }
-        ],
-        "source": "Bloody Disgusting"
       }
     }
   }
